@@ -1,0 +1,901 @@
+loan_id,name,email,phone_number,loan_amount,loan_term,credit_score,income,employment_status,purpose_loan,property_ownership
+9CAECD536,luzjgtld,niidlqhh@example.com,11255629,202,9,4,5906,Unemployed,Small Business Funding,Owned
+06F2A9A12,nevizkan,aotyfrdp@example.com,46144703,535,2,1,3577,Unemployed,Debt Consolidation,Owned
+F43D60336,yeppwozo,xgvkqlln@example.com,23427736,960,10,4,9541,Self-employed,Education,Rented
+C882E64BA,qwjnsyia,wujorxhs@example.com,56687957,370,8,2,8780,Employed,Home Improvement,Mortgaged
+7472F6AC0,ibvnssts,hueybwej@example.com,76985912,206,2,1,9334,Self-employed,Education,Rented
+6A08D1354,zaenpcew,woquqoas@example.com,46120466,171,11,3,6008,Unemployed,Small Business Funding,Owned
+200A930B1,sxrxtzbh,szehkbud@example.com,36333050,800,5,2,9920,Employed,Debt Consolidation,Owned
+6A621291B,osndaurb,nhyyslin@example.com,53461787,120,7,3,8602,Employed,Small Business Funding,Rented
+F1B1F4C21,oahazkag,ulcrabnh@example.com,27378586,714,8,4,7094,Unemployed,Debt Consolidation,Mortgaged
+EECB447C3,nscxbnzy,zvivtwqe@example.com,58348374,221,1,4,5351,Unemployed,Investment,Mortgaged
+85586BB04,raxpgdvm,jwxkheaq@example.com,42284980,566,6,2,6795,Unemployed,Home Improvement,Mortgaged
+70F435741,ejsiuopg,nxjbiahl@example.com,30329843,314,1,4,4349,Unemployed,Investment,Mortgaged
+EC7C7D634,dixixxdj,jjhqdoyd@example.com,74887388,430,2,3,5602,Unemployed,Investment,Rented
+AA55EDB8B,roizfwkv,qiqcvesv@example.com,42702568,558,1,1,7699,Employed,Small Business Funding,Rented
+60644CDE2,zurixzjw,lxzzwzmh@example.com,67623195,187,11,1,3241,Unemployed,Home Improvement,Owned
+48E278304,ksssvdmn,yxslrqxv@example.com,39340684,472,5,1,3125,Employed,Debt Consolidation,Mortgaged
+94514D08F,hrmjxgnl,pasjckgu@example.com,66406654,199,10,2,4601,Employed,Debt Consolidation,Mortgaged
+74D3768CB,ylpiboav,rgczaugx@example.com,30841790,971,9,4,8431,Unemployed,Education,Mortgaged
+82CDFB4A0,dklesrto,htszwqkk@example.com,86188985,763,6,3,3190,Unemployed,Debt Consolidation,Rented
+F01A29288,vxvkunoh,zvydmjmk@example.com,97110964,230,11,4,8764,Employed,Small Business Funding,Mortgaged
+5046E60D9,vtouejqn,bbsgzfyw@example.com,85156889,761,11,4,7101,Unemployed,Investment,Rented
+631AF861A,auinatqv,cymbgwai@example.com,81414822,408,1,4,6131,Unemployed,Investment,Mortgaged
+6CDA4160E,kifpthex,mxwlxmbv@example.com,58118845,869,1,1,6839,Unemployed,Investment,Mortgaged
+E2A790544,fonewvxg,mftgnzub@example.com,55430678,443,2,3,7860,Self-employed,Home Improvement,Owned
+FC7264F7B,jgsbccgz,gffmrlqe@example.com,34838420,591,9,3,6448,Employed,Debt Consolidation,Mortgaged
+63299F615,dhpxtmaf,aixzdbkl@example.com,75603193,513,3,4,9843,Self-employed,Small Business Funding,Mortgaged
+936E77D2E,ypcccomf,uxeoqlvz@example.com,45092197,905,1,1,8018,Unemployed,Home Improvement,Owned
+BF5964AA4,xyyqebrz,etbcxdob@example.com,91833026,485,5,1,2072,Self-employed,Education,Rented
+AA97D3D69,yvwstycu,feuseeqc@example.com,43049749,291,7,3,8791,Unemployed,Small Business Funding,Rented
+80A73C06C,soqusdtw,vshddkdz@example.com,92642108,376,6,1,7472,Self-employed,Small Business Funding,Mortgaged
+C69B5BAF9,lymmptuf,stdyquik@example.com,47880104,260,1,1,3914,Unemployed,Small Business Funding,Rented
+BEF073B9A,qycgzqmc,zxtjptot@example.com,79626936,559,5,1,7189,Self-employed,Investment,Mortgaged
+435C4846E,lgcmkkpx,lubqwyyf@example.com,16252486,413,5,2,4472,Self-employed,Small Business Funding,Owned
+E040CFDBA,inmuaaxo,crpkkqxi@example.com,39271855,121,6,4,5046,Self-employed,Debt Consolidation,Owned
+CB22095F7,ekptkeww,obaaaxim@example.com,63253372,352,3,3,2707,Employed,Small Business Funding,Mortgaged
+2EDF37322,thszoiav,nqzworty@example.com,48120522,847,5,3,3804,Self-employed,Investment,Owned
+23E7A7498,btqsgslh,eehxubxt@example.com,28018640,956,7,2,8704,Employed,Small Business Funding,Owned
+3FB717B49,byndzcpw,amgtjjxq@example.com,31108746,660,5,4,8971,Unemployed,Education,Mortgaged
+6A9DA37E6,qrwznpyu,qqtlleti@example.com,43445106,574,5,3,5713,Self-employed,Education,Mortgaged
+DC5161B4F,ncxanmjt,lcnxccdv@example.com,28225706,158,5,1,7051,Unemployed,Investment,Owned
+E48160E0C,ibzwuebf,ewyasdij@example.com,82431180,610,10,3,4564,Unemployed,Debt Consolidation,Rented
+E49ECBAEE,wgmcjzul,siyapmrv@example.com,98705294,781,10,1,4475,Self-employed,Debt Consolidation,Rented
+0997C904C,iyanfzzs,zfxrwtjj@example.com,41637077,575,3,2,5610,Employed,Home Improvement,Mortgaged
+5BD512919,ojfzqxny,pzgvlgpw@example.com,26953189,799,1,1,6255,Self-employed,Investment,Mortgaged
+764CF9F6B,sswjhmht,jmfwpcpc@example.com,38872783,882,5,3,8292,Unemployed,Small Business Funding,Rented
+06EA6F52B,vobxnpla,tagdltyh@example.com,85842692,289,9,3,4823,Unemployed,Investment,Owned
+FF223732F,cqtjpgkp,cejwdsel@example.com,27918786,786,1,3,9397,Self-employed,Home Improvement,Rented
+B03F8C362,uuzoezsl,dclguwap@example.com,63348015,662,3,2,3735,Employed,Investment,Rented
+DCB0FBD28,jwhkiczp,iqcqlsji@example.com,83345599,975,4,2,3585,Employed,Investment,Rented
+52B66B222,ljvbvghf,ylnuujoq@example.com,11864908,666,1,4,2066,Unemployed,Home Improvement,Rented
+A1C767CB0,pssjmnwn,liptwfez@example.com,92410303,343,1,3,5061,Unemployed,Debt Consolidation,Mortgaged
+BC0046009,xerwjzcm,mprdljzs@example.com,87398776,931,8,1,9979,Employed,Small Business Funding,Mortgaged
+2596E9E4C,izrhxpak,zofxpade@example.com,30121044,604,2,2,4428,Self-employed,Home Improvement,Owned
+806E55BFF,cdhrzhjy,ctsdpjef@example.com,86978946,230,8,3,6153,Unemployed,Education,Owned
+18E6D771A,spyahahc,kmpvquki@example.com,84671751,584,7,3,9426,Employed,Debt Consolidation,Owned
+D050250C7,kmffmgya,pwlsbrcv@example.com,33390844,918,10,2,2341,Unemployed,Education,Owned
+449268CE5,vrgbanpj,izrwctzw@example.com,30922964,746,10,4,7249,Self-employed,Debt Consolidation,Rented
+200F89AD2,jolncxwv,coentkic@example.com,87056555,120,2,2,4774,Employed,Small Business Funding,Mortgaged
+492EE0ABD,hqfovhuz,meodedph@example.com,31001442,940,6,2,7291,Unemployed,Small Business Funding,Mortgaged
+6AD7CBC76,rcycrkob,bmurpwdd@example.com,12170259,266,6,1,4817,Self-employed,Investment,Owned
+59E3D08C4,wngxjukf,wbiubutv@example.com,38414802,373,3,1,4661,Unemployed,Education,Owned
+683E2E1FD,epctpwrg,iwblbgdv@example.com,48751044,487,11,4,3232,Self-employed,Debt Consolidation,Rented
+EBD05F209,fnyzizyk,azrjdcvp@example.com,69172213,700,2,3,5874,Self-employed,Small Business Funding,Rented
+FEDC76A4A,ehcqyyjp,augxulvp@example.com,26174423,415,1,2,4401,Employed,Home Improvement,Owned
+829EC74A4,lridjqgl,udxfkwvq@example.com,57229102,113,6,4,3494,Self-employed,Small Business Funding,Mortgaged
+A01E30320,pqjetqsn,jjcsllqo@example.com,75528307,341,5,1,7917,Unemployed,Home Improvement,Mortgaged
+3FA4B6A5A,ezppdzbs,aqhzdvaf@example.com,66396966,876,11,2,6211,Self-employed,Debt Consolidation,Mortgaged
+566F3B4CB,ouypjwaa,ljiznnvk@example.com,99072148,445,9,3,9431,Self-employed,Small Business Funding,Owned
+CA125C845,ymvuihtu,kxhlmiya@example.com,34231400,664,1,1,2661,Employed,Small Business Funding,Mortgaged
+4E86C6ECD,gpsjuptg,zlqspyic@example.com,71628985,997,7,1,5883,Self-employed,Debt Consolidation,Rented
+0F78188B9,wloaietf,vaguqsgq@example.com,94927521,439,5,1,7561,Self-employed,Small Business Funding,Rented
+300838E05,lrenspvz,nbozvftg@example.com,98517998,191,5,4,5619,Unemployed,Home Improvement,Owned
+E5789587C,xbiggwrt,xqvqjqzr@example.com,45633586,466,2,3,8596,Employed,Small Business Funding,Rented
+B785ACA60,nibmjpun,bokhggxl@example.com,53724144,554,11,2,3868,Employed,Education,Owned
+283D54F88,rjuffkyh,opgbkllq@example.com,24666267,527,3,4,9644,Employed,Investment,Mortgaged
+129468AB3,bdtrasvj,dmaondkn@example.com,38076930,608,7,4,4334,Self-employed,Home Improvement,Mortgaged
+0D32A102D,fjwzjuog,affwrcrz@example.com,20215403,875,6,4,5374,Employed,Education,Mortgaged
+09A1749B8,zwvrmkjd,vpmftrmb@example.com,88587994,134,2,1,3016,Self-employed,Debt Consolidation,Rented
+923767560,ikcphukq,ptmuvrxa@example.com,30245297,305,6,3,6406,Self-employed,Home Improvement,Owned
+C40FA827E,ccqlevgg,rvbgpzie@example.com,43582841,180,2,4,2207,Unemployed,Investment,Mortgaged
+DB6D1DB8C,hwhqjeme,svsbzqzg@example.com,53770011,661,2,2,4665,Unemployed,Investment,Owned
+EA0E23943,hsldslwz,tbdfxvze@example.com,94040780,971,2,3,4493,Unemployed,Debt Consolidation,Mortgaged
+285E482D7,uuzmekau,eznbuqec@example.com,73184468,487,11,2,8813,Unemployed,Debt Consolidation,Rented
+4A9C14476,ayaritaj,shukltfj@example.com,19743738,101,3,3,2632,Unemployed,Home Improvement,Rented
+B311905E5,wlfeloji,vholeaqf@example.com,39781963,489,2,2,4102,Self-employed,Small Business Funding,Owned
+3A24CCBA5,ilycxfwn,agxfdkhw@example.com,97345833,665,4,1,4959,Self-employed,Debt Consolidation,Rented
+F0815CC51,ohuxbciu,jpjkbtym@example.com,77679882,205,9,4,5083,Employed,Small Business Funding,Rented
+05903E907,iubmaeme,iwpfuxwx@example.com,12824071,871,6,2,6752,Self-employed,Education,Owned
+A9F518A19,ozjcauvd,olyoeixh@example.com,65836003,921,1,3,7519,Self-employed,Investment,Mortgaged
+9315F3498,sqpwqomp,miblearf@example.com,28091258,576,8,4,3931,Unemployed,Small Business Funding,Rented
+4AC080C32,gvagqlin,ojxlbtli@example.com,47077051,802,7,4,5719,Self-employed,Investment,Owned
+67AC8D340,tzxtasus,evasltak@example.com,34627238,501,10,3,9123,Unemployed,Small Business Funding,Rented
+103C1C490,vsoqgppr,artqmbtv@example.com,76303811,829,3,2,4562,Employed,Education,Rented
+0CB93E3BF,kokesuuj,zslaazev@example.com,17391119,655,1,1,3679,Employed,Debt Consolidation,Rented
+F9CB124C0,tjwpblcf,sttmmezy@example.com,58108700,261,5,1,9709,Self-employed,Education,Rented
+D2837E11B,byzidrqm,nvhmagmc@example.com,92151575,301,4,2,2236,Employed,Debt Consolidation,Owned
+693C61D70,owkwusqz,vxwkzrdv@example.com,48864692,369,10,4,9446,Self-employed,Debt Consolidation,Owned
+0F1946478,urrdfcge,sptsiyjy@example.com,39799168,962,8,4,6443,Employed,Investment,Owned
+DB3D6E45D,nytfvddz,fvqrprre@example.com,53223595,915,1,4,8770,Unemployed,Education,Rented
+E57BFE828,cbkxluwl,menjxwce@example.com,46708328,370,10,4,9271,Unemployed,Small Business Funding,Rented
+FF37418FE,ltdigdxt,dgvcaxzo@example.com,64651905,555,1,2,6725,Unemployed,Education,Rented
+0C7553897,alyfktfy,bzgqrwga@example.com,35209840,561,4,4,3540,Unemployed,Investment,Owned
+DF026689F,zsodtqak,cusowjsz@example.com,34546455,826,8,3,8099,Self-employed,Debt Consolidation,Rented
+F39289B73,qbpdixjc,uoeynbpz@example.com,14780173,351,5,4,5943,Employed,Investment,Mortgaged
+26DD138B7,qugsfmte,faqnnxde@example.com,61843367,801,2,1,7367,Self-employed,Home Improvement,Rented
+FD1145607,vasolnom,bmtrtuut@example.com,83469885,395,6,4,2363,Unemployed,Home Improvement,Mortgaged
+8F6C6D4EC,lfxrwpdk,jcshpibt@example.com,73121550,824,5,2,4368,Self-employed,Small Business Funding,Rented
+89B6C99E0,kyxqfiyd,rmigqfma@example.com,60912722,819,2,1,9800,Employed,Investment,Owned
+B4CF2883A,mtkpbbdr,jnwdskdz@example.com,74757991,848,11,2,2285,Self-employed,Small Business Funding,Rented
+C7F98248D,ywisgwce,sfjdfbsj@example.com,72041181,437,11,2,2148,Employed,Small Business Funding,Mortgaged
+A266BE21D,kwzshqxu,zqzmdlbu@example.com,46101224,978,11,1,7203,Self-employed,Home Improvement,Mortgaged
+A8A72ADB2,cbqjmpbv,lxrtjitu@example.com,56539417,152,3,2,6037,Employed,Small Business Funding,Rented
+6A0FAA795,iloyyxfi,jegmrgom@example.com,80198055,891,9,2,8549,Employed,Home Improvement,Mortgaged
+BA50451B0,xgxzjtvo,spsvezgr@example.com,46988066,316,7,4,9121,Unemployed,Debt Consolidation,Mortgaged
+6F77FF0AA,vdyeqjyc,jfixtntd@example.com,70235043,863,7,3,6551,Employed,Investment,Owned
+388043719,rkyfmale,dwkefprl@example.com,24884576,287,11,2,3766,Unemployed,Small Business Funding,Rented
+F1D30AAF1,bqicrpqr,jgxikjxt@example.com,89976801,479,6,2,6895,Unemployed,Home Improvement,Rented
+01D358027,qxetlvwe,jzfvuqmt@example.com,31030513,592,8,2,7280,Unemployed,Education,Rented
+07F839F54,qtabzflj,kushamyd@example.com,79972037,140,4,4,3012,Self-employed,Small Business Funding,Mortgaged
+47125E8E1,fsnkbsop,lgqtwskw@example.com,19059456,256,8,3,4831,Self-employed,Debt Consolidation,Rented
+61C203E3E,almkslub,kfrfallg@example.com,79429691,114,4,1,4507,Self-employed,Debt Consolidation,Rented
+CFE22953E,urtplvon,acjvbwvu@example.com,21247207,912,8,4,9717,Self-employed,Education,Owned
+3F9FFD24E,eulbatzn,ctexyiuc@example.com,65890333,164,9,4,3523,Employed,Home Improvement,Owned
+100DAAA61,xtnxmrki,dourvqrp@example.com,79060234,956,3,3,4785,Employed,Small Business Funding,Owned
+4952F6520,xjiqzmkp,evevebwp@example.com,36209000,938,3,3,4556,Self-employed,Home Improvement,Mortgaged
+3C7A38E21,wjsfaixa,bbehbmnb@example.com,99216981,620,11,4,5725,Employed,Debt Consolidation,Rented
+D48C2D50B,tfgfpxih,eebmhsam@example.com,34734344,443,2,1,9971,Employed,Home Improvement,Owned
+0E9CD6146,ebnvswma,pkbmcuxh@example.com,77149076,228,10,4,6576,Unemployed,Debt Consolidation,Owned
+F8D3C8F85,llzmvysc,ntnogegt@example.com,36338824,747,3,3,7782,Unemployed,Home Improvement,Owned
+8E050D366,gsijowoa,bxbdidov@example.com,40958186,571,3,1,8257,Unemployed,Education,Rented
+6879CBD57,odiziocz,mlbvcghh@example.com,23328671,162,5,3,8892,Unemployed,Investment,Rented
+F30DB39A5,lpjgusxb,qygkntaj@example.com,30826784,238,5,1,3601,Employed,Education,Rented
+B916AA05F,zqevfbgl,oiqravmo@example.com,82838240,598,2,2,4408,Self-employed,Education,Mortgaged
+0DE41CBF9,cdxcfuth,yvifvato@example.com,64787536,692,10,3,2340,Employed,Investment,Mortgaged
+AA19A46AA,blfelang,lgvyoyxk@example.com,34872948,491,6,3,4817,Employed,Investment,Owned
+17065EBAA,teciwtki,dpdjuxlj@example.com,42494886,774,5,4,8106,Employed,Small Business Funding,Rented
+0A23CA69A,csxxbflf,ihnacxgi@example.com,88051113,518,6,3,8904,Unemployed,Small Business Funding,Owned
+BE54ABFCB,lzrljmjd,qincxtvf@example.com,21083135,388,1,3,9112,Unemployed,Education,Rented
+3553AFEA4,deajavut,actvyuen@example.com,66850806,478,5,2,4496,Unemployed,Education,Rented
+F63049170,tgttlgsf,jsxadmmn@example.com,70428914,872,9,3,7962,Self-employed,Debt Consolidation,Rented
+051EFF778,mjaqwsqe,pnosalkx@example.com,74694777,589,10,2,6930,Employed,Debt Consolidation,Mortgaged
+AC186B29E,oiwoddcg,tngabvoq@example.com,61966232,330,2,2,7299,Self-employed,Small Business Funding,Mortgaged
+EBD62E107,ebdrmgoa,mecdygqt@example.com,76893729,140,1,2,3725,Unemployed,Small Business Funding,Rented
+39CEC0EB7,gvrkkujr,orsxbwxd@example.com,13719437,127,10,2,9574,Self-employed,Debt Consolidation,Owned
+71F614D30,wpismall,ddshqcgp@example.com,38091241,234,11,1,3689,Employed,Debt Consolidation,Rented
+25B316485,nsiuzkuf,fkdvhyfh@example.com,40975712,300,9,4,5267,Employed,Home Improvement,Rented
+694B9F35D,ydiuiytu,qpgmubte@example.com,23227723,939,10,1,9633,Unemployed,Home Improvement,Owned
+F7875A980,yzxffqzs,jdoduuwa@example.com,80010046,879,9,3,6406,Unemployed,Debt Consolidation,Rented
+A3754B902,nomgkqod,xxaiebkd@example.com,42015255,132,9,1,2261,Self-employed,Home Improvement,Owned
+11B18CB41,rxlmijmj,qwbtiklb@example.com,94598525,147,6,1,3442,Unemployed,Investment,Mortgaged
+67F5E906E,cslnnaob,ndpjyrya@example.com,82179647,602,8,3,2405,Unemployed,Small Business Funding,Mortgaged
+37F0E963B,mqyveose,bjwoqjdj@example.com,81566644,506,11,3,4190,Employed,Small Business Funding,Owned
+8E155AF3A,qmeuugqm,jxfsreyg@example.com,19422502,673,1,3,6437,Unemployed,Debt Consolidation,Mortgaged
+CC2BA5BB7,fdsesojm,aqrozkyb@example.com,24927512,827,10,1,7435,Unemployed,Education,Mortgaged
+EAB9CE813,soztujeo,vkibleug@example.com,64895873,904,4,1,9268,Employed,Debt Consolidation,Owned
+027903992,nryexvgx,awdnyypm@example.com,70288576,198,1,3,2243,Employed,Home Improvement,Mortgaged
+FA7186BFF,vttwiyir,mrfefvhb@example.com,91462706,783,8,4,6585,Self-employed,Education,Rented
+A217CE825,ublvnzhl,bjpvdmlw@example.com,29117092,971,1,4,6107,Unemployed,Home Improvement,Rented
+BF9C8B863,ckdvsoui,lamqjode@example.com,77036382,825,3,2,9406,Employed,Investment,Owned
+E1A6BA674,welcpzcl,jxtchnzj@example.com,90431606,646,4,3,2560,Self-employed,Home Improvement,Mortgaged
+CDAC28E25,vjtsllhm,jprxbsra@example.com,85380334,838,8,2,6137,Self-employed,Investment,Rented
+E6DEBC622,nptgsxdk,secgswyz@example.com,84149369,712,6,4,4725,Unemployed,Investment,Rented
+176E9E2F3,twpjmpon,qcaiccgj@example.com,56783954,561,10,2,2593,Unemployed,Home Improvement,Mortgaged
+31D263E2B,pawzkjbq,iiunneiw@example.com,43641450,742,7,3,7548,Self-employed,Home Improvement,Mortgaged
+E1B10B105,fuhctcgh,qqaylajh@example.com,73209624,868,8,3,3826,Employed,Investment,Rented
+412C5EBF9,pkmkgsyt,qljukkdw@example.com,47906219,104,2,3,5229,Self-employed,Education,Rented
+257E48700,jlvjcxit,phnynldp@example.com,80210683,317,10,1,5287,Unemployed,Investment,Owned
+AD95F2303,quyeinzs,bmctzlpw@example.com,37288645,602,11,2,6073,Employed,Small Business Funding,Owned
+2297C7894,yixxqvut,izkdrqph@example.com,44179179,866,8,4,7789,Employed,Investment,Rented
+1E08E7DAB,hmmamdop,cyvtjify@example.com,60519365,497,3,4,9629,Self-employed,Education,Owned
+FF1623CA7,fxrvvblb,uenwexma@example.com,52021864,970,7,4,2133,Unemployed,Small Business Funding,Rented
+2EF8DFED7,mytkrbnd,vpfmgcga@example.com,58298363,894,3,1,5138,Self-employed,Debt Consolidation,Rented
+2901D54BC,rcsgxnaj,rfpguxbu@example.com,50040766,492,7,1,5919,Self-employed,Debt Consolidation,Owned
+1164D7388,bjtbdfnh,lpsabsvt@example.com,64599021,306,11,3,9174,Self-employed,Education,Owned
+F3F883C2B,zlazrlgp,lrkktkeq@example.com,31556661,114,2,4,7043,Employed,Investment,Mortgaged
+FA2CDF10D,stkurpix,ftpnfqgy@example.com,91399555,957,10,1,9693,Employed,Home Improvement,Mortgaged
+DD1AD0BD3,zgefndzm,ctrsybjm@example.com,84372748,653,6,3,2072,Unemployed,Education,Mortgaged
+1A824B419,pkmtbfei,fqmylolm@example.com,18402153,991,3,4,6494,Unemployed,Small Business Funding,Rented
+E8D96AF50,zpmrjggt,uzqceoda@example.com,46443259,560,3,2,7524,Self-employed,Small Business Funding,Owned
+D7667A624,drbcyoyf,vbpknzmc@example.com,87742691,790,9,3,9842,Self-employed,Debt Consolidation,Rented
+F575F3F0C,smbzuotu,rzuklicf@example.com,68708439,674,7,1,8721,Self-employed,Small Business Funding,Owned
+1D2D84E96,jqfzmyht,ksqkwtle@example.com,70084696,963,5,1,9002,Unemployed,Education,Rented
+F6055C726,fvfehrrc,shcznful@example.com,42013074,842,10,3,6225,Employed,Small Business Funding,Mortgaged
+08593832E,yscnvijs,zjurvupk@example.com,40712904,340,7,3,4978,Employed,Education,Mortgaged
+C59F83288,zmvvbxhv,cobfkmnx@example.com,59711126,663,9,1,9633,Self-employed,Home Improvement,Mortgaged
+BCB02D03E,luoyetfc,rmwggidp@example.com,11323951,195,1,2,9373,Self-employed,Debt Consolidation,Rented
+167769558,iihhfbez,texwegdr@example.com,31042456,999,7,4,7907,Self-employed,Small Business Funding,Owned
+2DEF25FE3,bycybcgf,izqilpmb@example.com,82021536,833,6,2,8097,Self-employed,Education,Owned
+9404E9360,qxhfsmav,qvpgrqrf@example.com,56251602,584,10,3,9935,Unemployed,Investment,Mortgaged
+A3042B42C,wxjypeqp,cclgsnug@example.com,25828512,506,9,2,6361,Employed,Debt Consolidation,Mortgaged
+BD28C4A43,dayebvnx,mkzchieu@example.com,60637689,330,1,1,7656,Self-employed,Home Improvement,Mortgaged
+E04BA6DEF,agnwmajs,zwpcwcdb@example.com,35682435,848,4,3,3985,Unemployed,Education,Mortgaged
+E4E9C33FD,wmlxcrtv,oicibamz@example.com,21738813,754,9,4,2792,Self-employed,Home Improvement,Owned
+2C962B05B,uxdrxyoy,rvxncpaw@example.com,34138729,270,4,1,8396,Self-employed,Home Improvement,Rented
+F06569273,zumoacez,eoqyzjly@example.com,18771645,640,10,1,8965,Employed,Small Business Funding,Rented
+2310AAD6C,khbgeufm,kajdksmw@example.com,83747957,135,3,4,7408,Self-employed,Small Business Funding,Rented
+A7A31A2D8,nsvvbnmf,vcpgpxzh@example.com,75548134,624,9,4,6259,Employed,Education,Rented
+84E25B846,xaiudyrb,madjsaqv@example.com,74209260,259,2,2,2094,Employed,Investment,Mortgaged
+A1DE726F8,sdcjyoum,zpjautkf@example.com,61973427,938,4,3,7901,Employed,Education,Mortgaged
+88277F85C,ycogldpe,eggxlgeq@example.com,34146051,798,6,4,8976,Unemployed,Investment,Mortgaged
+DE36D89D7,nnmpmpzx,ifndhrud@example.com,99360897,342,2,4,3133,Unemployed,Home Improvement,Rented
+DBF1F9F45,cosmjeai,cxyseewx@example.com,39345220,185,8,3,8479,Employed,Debt Consolidation,Mortgaged
+2A199154C,swkrsexc,szljhkvt@example.com,35182351,895,8,4,6917,Self-employed,Education,Mortgaged
+697F75761,sxdkiypj,slsktuap@example.com,89826051,677,1,4,2237,Employed,Education,Owned
+4E9D1BF6F,tfmfmmwo,xwevjvcx@example.com,53340861,781,3,2,8524,Self-employed,Investment,Owned
+D1E071E99,mkoggmiz,znnqblvs@example.com,78937647,656,10,1,9603,Employed,Home Improvement,Mortgaged
+2A4BA9D6A,uaodakpm,ciiuacqm@example.com,89401934,673,9,1,4946,Self-employed,Home Improvement,Owned
+C14EDECCE,ajfcjdcf,mhggymui@example.com,66380995,745,5,1,4530,Unemployed,Investment,Owned
+8B0CE12B6,ndbiklmi,xpyebgno@example.com,70190696,895,6,1,3960,Self-employed,Home Improvement,Mortgaged
+8F27D73A1,gskiejry,vtycflnd@example.com,54275724,127,4,4,9045,Employed,Small Business Funding,Mortgaged
+2430952DA,xaqqwhvu,nneyfbgr@example.com,53378071,719,10,3,3048,Unemployed,Debt Consolidation,Mortgaged
+F04B072E6,kvqfnnhh,tvrweldb@example.com,18170322,655,2,3,7772,Self-employed,Education,Mortgaged
+C238860D2,xtjcttbl,dciiyzrc@example.com,25783070,439,11,2,9284,Self-employed,Debt Consolidation,Rented
+8F03535F5,flhlehlc,rzfgigql@example.com,34255714,897,8,2,4529,Self-employed,Education,Rented
+DEEF91E55,asikyini,ydzmdztu@example.com,24708060,430,11,4,9559,Self-employed,Small Business Funding,Mortgaged
+95E04707C,xwuvupsm,ycexqqwu@example.com,43743902,739,6,3,4964,Self-employed,Home Improvement,Owned
+0C338F15D,aizzjxsy,dfnhtngc@example.com,25076015,605,5,3,9137,Unemployed,Investment,Mortgaged
+3FC5F6718,fcwwwiss,cgmlzuux@example.com,83264009,447,9,1,2963,Unemployed,Small Business Funding,Mortgaged
+349BF4450,nqgthggc,csblguek@example.com,82999238,572,1,4,2536,Unemployed,Debt Consolidation,Owned
+D8C0652FC,exwvious,ezfjlfbi@example.com,63344726,330,5,4,9246,Unemployed,Investment,Rented
+FCF261BB5,skgermto,eujigqvn@example.com,90908823,289,6,1,7699,Employed,Home Improvement,Mortgaged
+DC70B1C8D,jynkkqrm,olutdycm@example.com,85190194,324,5,4,9340,Unemployed,Small Business Funding,Mortgaged
+7B945DDCF,banfpdqg,rqlxbdsm@example.com,67208709,484,6,4,8075,Self-employed,Investment,Rented
+F4F9AE1E9,omvgslxz,wkjzvvnw@example.com,72734296,476,6,2,9179,Self-employed,Small Business Funding,Rented
+93D0510B0,buvedzxd,fomzucvt@example.com,74641546,382,7,3,9967,Unemployed,Small Business Funding,Owned
+14AD2B564,zfotflic,oiabzxlo@example.com,89524127,732,4,4,6223,Self-employed,Home Improvement,Rented
+45F0764D1,bozcpcic,ocadccbg@example.com,81350419,727,11,2,5679,Unemployed,Education,Rented
+FE5C12D34,hhmmgjon,ccfojdus@example.com,65087056,844,8,3,6187,Self-employed,Investment,Rented
+DEF4406A5,ozydbckw,yahvgppm@example.com,11453456,358,7,1,5724,Employed,Home Improvement,Owned
+D9E6EEC53,gcsllobm,fyjufrnu@example.com,69903473,458,9,2,2542,Employed,Small Business Funding,Rented
+97B10AEB8,gfyvqeqr,gqmhacjs@example.com,45614971,809,7,2,2845,Unemployed,Home Improvement,Rented
+CF1E2263A,messvens,oglkguvn@example.com,22380930,555,3,3,5603,Unemployed,Education,Owned
+ED95E4D13,ulumvfew,ywxkvbrw@example.com,13423350,510,3,1,7777,Unemployed,Investment,Rented
+718640163,bgijzvds,axssrtjk@example.com,92316273,748,8,2,5036,Self-employed,Education,Rented
+E8BD86999,lojfqjwp,tgqvlhwd@example.com,37547230,417,5,4,7947,Unemployed,Debt Consolidation,Owned
+B7E08CC2E,qdlkmfdq,lgoxvbek@example.com,82557987,776,4,4,4494,Employed,Investment,Mortgaged
+A6DD9C760,hjtmldaj,kpnljkfx@example.com,47927244,324,8,4,6485,Self-employed,Education,Owned
+F20156CB2,qcaboarm,efydtzin@example.com,44765623,918,6,1,4719,Unemployed,Small Business Funding,Rented
+3BA162D0F,kdtfbwtc,qmcnpeqe@example.com,42259865,333,2,2,3884,Self-employed,Investment,Rented
+E0CD83AAE,xoemntyb,oysimrku@example.com,30525941,783,4,4,6138,Self-employed,Investment,Rented
+24E5BDEDF,udxjihnt,xvlgmnub@example.com,66929314,763,11,1,6349,Unemployed,Home Improvement,Owned
+746883170,rqkheamg,nxosccin@example.com,19829095,926,4,4,5201,Self-employed,Small Business Funding,Rented
+FFABF52AC,ukoqgacy,zsqcwaoe@example.com,23970488,473,6,3,7179,Employed,Debt Consolidation,Rented
+AC821F6B8,hjsrceym,sukccrrk@example.com,77869310,771,6,2,4710,Employed,Education,Owned
+C330A79AE,dudcxvmb,qdkryjbk@example.com,12278736,707,1,2,8610,Self-employed,Home Improvement,Mortgaged
+3213CF4E7,risrshwi,vtlgiass@example.com,98368025,571,8,1,8430,Unemployed,Education,Mortgaged
+B6B7986CC,zrcpgifh,ozqkzgls@example.com,83450215,332,6,1,9154,Self-employed,Debt Consolidation,Rented
+62D3C270D,jpngxocd,llthjtaz@example.com,61135473,791,3,2,7636,Employed,Debt Consolidation,Owned
+44C36057B,wyzsbjma,fbifftsd@example.com,61939780,212,9,4,9634,Self-employed,Investment,Rented
+94969D713,ztozyqrq,pybdixtk@example.com,51637401,929,2,4,3953,Self-employed,Debt Consolidation,Owned
+14F8F1BB0,gnlseden,ptzxgndn@example.com,15483917,596,11,3,8921,Employed,Education,Owned
+397120572,dsgbypcs,mzmwzqni@example.com,31261722,541,8,4,8488,Self-employed,Small Business Funding,Mortgaged
+EF107DB57,jtmgedso,auytbtzt@example.com,39132212,663,10,1,6737,Self-employed,Small Business Funding,Mortgaged
+525DB7882,awpkjnhv,ajgbndgl@example.com,56561320,367,3,1,8525,Unemployed,Investment,Owned
+ED70E21AB,uyfphfft,igiajbxr@example.com,44867826,609,5,4,5850,Unemployed,Education,Rented
+BA46F8295,wkbiglze,xavgstpp@example.com,63497454,906,6,1,2689,Employed,Education,Mortgaged
+6CC58E6FC,ivvpubji,bwqhfrcv@example.com,26820198,485,10,2,7372,Employed,Debt Consolidation,Rented
+75A384257,rjyrckns,egzmcvvs@example.com,81993996,486,6,2,3950,Employed,Education,Mortgaged
+D2DC3E6CD,ktkdyafi,leboovak@example.com,63670517,212,4,4,7175,Unemployed,Home Improvement,Mortgaged
+DEB140F0D,ecaeotbj,faciwskr@example.com,30882911,712,3,2,7582,Employed,Debt Consolidation,Rented
+AAE6D2552,udmfqeck,bluqfbik@example.com,71253150,724,4,2,2456,Employed,Home Improvement,Mortgaged
+0ADD81C86,sltqxnxc,rrcovbmg@example.com,28801368,180,1,3,7078,Employed,Investment,Mortgaged
+22D33CC3D,rayluezw,peafcstu@example.com,93319107,798,4,3,4130,Unemployed,Small Business Funding,Rented
+B2FBC6907,awwzxexm,doeaxqbw@example.com,60174091,212,1,2,5976,Self-employed,Investment,Mortgaged
+3F3A24A5A,rppjyfgj,asvitoro@example.com,27202153,101,1,4,7218,Employed,Small Business Funding,Mortgaged
+E408461CB,zsyagkld,osolztdh@example.com,19032280,741,10,3,6244,Self-employed,Investment,Mortgaged
+D0EF5F63B,powptbcu,typzvufr@example.com,85764308,319,6,1,7448,Employed,Education,Rented
+ED8D942D4,uyztzwlj,luuwxhqq@example.com,59991474,665,5,1,3179,Self-employed,Home Improvement,Owned
+70B975F1A,wfrmpqzj,couofkqa@example.com,65798562,954,11,1,6285,Unemployed,Small Business Funding,Rented
+E6FF26E97,aziejrhy,wbmlrrey@example.com,91925574,835,4,4,5565,Unemployed,Debt Consolidation,Owned
+4969AA724,nbmoeiii,usgvcemu@example.com,38971657,324,11,2,2882,Employed,Home Improvement,Mortgaged
+8841FCA05,dylgruvp,tnhdwjzs@example.com,30278712,484,3,1,8406,Self-employed,Debt Consolidation,Owned
+8F8E90F6B,yhiozddq,grmeoowg@example.com,22263960,502,1,4,9247,Unemployed,Home Improvement,Rented
+92142BC79,jsppzixm,mqkvncce@example.com,97342800,737,6,3,2399,Employed,Home Improvement,Rented
+22D08D2B2,letjteuf,fwpwmowx@example.com,61591907,229,2,2,8907,Employed,Investment,Mortgaged
+7946C135B,nvtgdecr,smroeitu@example.com,31078316,152,8,3,2608,Unemployed,Small Business Funding,Owned
+D46A07313,tbrlcvdz,vkhbvoft@example.com,78308343,783,10,4,9427,Unemployed,Small Business Funding,Mortgaged
+A7A8DFC00,pileuqac,tlfditzq@example.com,28532204,829,5,1,7891,Employed,Home Improvement,Mortgaged
+D1126D0CB,mdydhqju,dtsswdfo@example.com,50707596,771,7,1,3638,Self-employed,Education,Rented
+587664729,szkpoppo,lvexauif@example.com,14293207,809,10,4,7671,Self-employed,Education,Owned
+ECD02CECA,gxfkgxtk,rckjpsen@example.com,79170688,515,2,1,8928,Self-employed,Debt Consolidation,Owned
+68DE03A2B,zjugmfrx,gqkrvqop@example.com,79643088,346,8,2,4148,Employed,Debt Consolidation,Owned
+3C7381473,jnlvipbp,xzvdfqom@example.com,43566570,935,2,4,3382,Unemployed,Investment,Owned
+D56A19A2B,biohqjyv,zyqcjubw@example.com,64541878,538,4,3,3403,Employed,Home Improvement,Mortgaged
+7928CA6B1,lrqrflln,ciurbhbw@example.com,29249246,302,1,4,2819,Unemployed,Debt Consolidation,Mortgaged
+A5562A07C,gbtqdjpj,waolikss@example.com,41270462,283,5,2,5292,Self-employed,Debt Consolidation,Rented
+525FE69B2,bcvhnfis,creietci@example.com,91491311,222,9,2,2819,Self-employed,Home Improvement,Mortgaged
+B5DD0A958,borshwdm,wrguzzqf@example.com,43786498,500,1,4,2419,Unemployed,Investment,Mortgaged
+02256CAAC,zgfhedzh,pvwxnlwt@example.com,25836321,866,9,4,6219,Unemployed,Debt Consolidation,Rented
+0B0581738,pepkmygq,brbkqoqw@example.com,10295563,393,11,1,6517,Employed,Investment,Rented
+D1E560C76,emtwmjpv,eujdssdo@example.com,90140976,379,8,2,5302,Self-employed,Small Business Funding,Rented
+5541D68A7,tdpdnvnw,fpvdugqk@example.com,20734369,936,6,4,9857,Employed,Investment,Mortgaged
+04B3F1256,cmvinyco,vwbpcnln@example.com,73079230,983,7,4,9230,Employed,Education,Mortgaged
+A75907FAC,htwvtqgg,enowilrn@example.com,63540945,709,3,2,3508,Employed,Education,Rented
+C90363E69,ffabqulq,pqemdjsm@example.com,90983600,297,1,4,9795,Self-employed,Investment,Rented
+E295EA7C1,rvrtbkgy,npbwfshl@example.com,84965675,610,5,1,9870,Employed,Education,Rented
+64AA3FCFF,dabhrjkn,cxlneips@example.com,55925762,851,2,2,7693,Employed,Small Business Funding,Mortgaged
+378520DA9,syzbrjjq,ekuwfwjt@example.com,31250266,243,5,1,2767,Employed,Home Improvement,Mortgaged
+604660578,agcwmuhz,bmqgrhld@example.com,39766216,708,8,1,4044,Employed,Education,Owned
+44D8BBAE6,cfwvbgql,zhfbuvgh@example.com,77494818,300,11,1,8626,Employed,Education,Mortgaged
+90D43E2CF,qhulsgst,ysockkua@example.com,54432132,223,9,1,8662,Employed,Investment,Mortgaged
+3287386E1,thfznhti,rnaqygnz@example.com,33061103,286,2,2,8298,Self-employed,Small Business Funding,Mortgaged
+EF6F8ED96,smygnvnz,pzavxgrp@example.com,70747841,425,3,1,4139,Employed,Home Improvement,Rented
+A00C31695,lilvpdvs,rlpyzdzq@example.com,54044843,563,3,1,5029,Unemployed,Investment,Mortgaged
+BF375847E,cmdpgcbe,ptmxskwp@example.com,79426441,448,1,4,3549,Employed,Investment,Rented
+3C1AA5448,aohcjkfk,pdnfsjny@example.com,96685783,870,8,2,8598,Employed,Small Business Funding,Owned
+2C6DECC5B,bgpkjfaa,ulkvbnau@example.com,37805096,759,6,2,3764,Self-employed,Home Improvement,Owned
+9587D9236,pxuqcblu,lshtvrsk@example.com,65818663,863,8,3,8140,Self-employed,Small Business Funding,Rented
+3D2EE39BA,hwwfuktc,pmrvjsmj@example.com,99042531,502,11,2,4645,Unemployed,Home Improvement,Rented
+1ABD29A1C,vcjghfce,yrmzrjhm@example.com,24027646,445,9,2,5716,Unemployed,Small Business Funding,Rented
+246B07734,ehjolsad,rczjzqce@example.com,39058728,610,5,3,6605,Self-employed,Investment,Mortgaged
+F371E376B,brjgmasd,izqupxeb@example.com,65482693,246,3,2,7302,Self-employed,Investment,Owned
+490FC53B3,ekqprunu,owtdwmmm@example.com,39867757,247,5,2,6481,Employed,Debt Consolidation,Rented
+46D8E9A8E,wotciemj,wtvbiajs@example.com,37549387,963,5,2,7693,Self-employed,Education,Mortgaged
+7146FB821,wcvspqoc,igoinwoz@example.com,23046318,810,5,2,9898,Unemployed,Small Business Funding,Owned
+283FB1087,dqyjcjqx,srapcrnu@example.com,31216647,919,3,3,8548,Employed,Debt Consolidation,Mortgaged
+3360902B2,qpfhznvs,zgowxkji@example.com,38278149,588,11,2,4293,Unemployed,Education,Owned
+BC37EAC3A,sswmsslj,agxygvem@example.com,67331502,739,10,2,6837,Employed,Small Business Funding,Mortgaged
+33ECC3665,kyoxqfig,vcjfehny@example.com,48001969,650,4,3,9758,Self-employed,Home Improvement,Owned
+71ECB50DA,mirokdcx,wxiicmnc@example.com,62365608,437,9,4,4708,Unemployed,Education,Owned
+E263920DD,wbpuvgmm,hwlcuoum@example.com,26925234,971,10,1,8793,Employed,Investment,Mortgaged
+46568CEA9,oqavsbcb,pylsehhx@example.com,79573544,740,9,4,9638,Employed,Debt Consolidation,Rented
+69A8BAEB4,uysgcqhx,mcuxxdps@example.com,43825593,878,2,3,9993,Self-employed,Education,Owned
+A83589872,wtkwxssn,xjnicggu@example.com,99427748,572,8,1,8007,Self-employed,Education,Rented
+7E78CBCDA,jssxoiux,njdeuzan@example.com,56054761,250,8,3,7542,Self-employed,Investment,Mortgaged
+5F297FC62,shehfyza,rkqaevwk@example.com,76076229,514,7,3,2900,Unemployed,Small Business Funding,Rented
+A89A11195,bzebkyzk,mqywwyjd@example.com,42166497,397,8,2,8208,Employed,Home Improvement,Rented
+C03597C29,uurgvzih,vidoyhzg@example.com,95377515,710,3,1,5084,Self-employed,Investment,Rented
+55FB74E32,shjmdbpj,zzqhidll@example.com,67806369,362,6,2,8356,Unemployed,Home Improvement,Rented
+03C44B75C,hrckjujp,dxkkqkyj@example.com,71952248,863,1,1,4009,Unemployed,Small Business Funding,Rented
+4D216B5CD,lekeeqtt,tgknxcij@example.com,33666320,243,7,3,2241,Unemployed,Education,Owned
+8E1DE72A1,falanbht,eumqgzhr@example.com,59159128,445,1,3,8636,Self-employed,Home Improvement,Owned
+8EC61A278,ktyionlv,nwqpqost@example.com,43661064,723,9,4,9380,Self-employed,Debt Consolidation,Owned
+7F25CC604,cqdabbzb,cgodrtgf@example.com,76685420,671,1,1,9860,Employed,Debt Consolidation,Mortgaged
+5B61B36FA,bvbzbnuc,iepdamsk@example.com,98793368,980,1,2,4385,Employed,Investment,Rented
+613A2395D,tjfneznz,khnxaeey@example.com,35336098,101,7,4,8116,Self-employed,Small Business Funding,Owned
+2B0E1C582,vsavqqxg,gfxjmlsr@example.com,43714528,996,2,4,6268,Unemployed,Investment,Mortgaged
+25BC0F1A9,psmyvwid,nwxwyitp@example.com,82823815,403,5,4,2671,Unemployed,Investment,Owned
+F09933532,jblbvsrf,caefibzv@example.com,33397143,353,8,2,2163,Unemployed,Investment,Owned
+5924C2301,rtvaxqzg,orhdyisz@example.com,82793216,751,8,4,2464,Employed,Debt Consolidation,Rented
+EE8D560C6,mvxkxzhi,xqqtgmyz@example.com,27524795,552,3,2,5042,Unemployed,Debt Consolidation,Mortgaged
+C821E78B2,xtdfeuvi,xwsjxuvp@example.com,58370096,136,7,4,6592,Employed,Investment,Rented
+227505693,dopqfcbl,gtrgwung@example.com,38746125,259,3,2,6795,Employed,Debt Consolidation,Rented
+D813CCE12,wnwvignt,xstihzln@example.com,97062005,108,6,3,4442,Unemployed,Small Business Funding,Owned
+DCCC2E977,pkdkmemg,dehqrzpd@example.com,41518884,332,6,3,6798,Unemployed,Investment,Rented
+B4345F00B,zzejpewh,hgfbbjlh@example.com,35608523,198,3,3,8036,Self-employed,Debt Consolidation,Mortgaged
+87A135456,kjuxgxay,krgannnz@example.com,98866728,758,7,3,4355,Self-employed,Home Improvement,Rented
+7DC3FE29A,hserobhb,ltrpoqyj@example.com,83951773,915,3,3,7887,Unemployed,Investment,Rented
+CFF706102,trzfzwvi,xywpxdxi@example.com,43577380,307,8,4,6278,Employed,Investment,Rented
+23BCB7AF0,jhzhryso,bloivxag@example.com,71127781,230,10,4,6724,Employed,Small Business Funding,Owned
+8231D0F5C,wtnwodot,xnlctvga@example.com,91930630,503,4,4,9961,Employed,Education,Mortgaged
+26FCB3EDA,dunoeyng,xbkojmvn@example.com,16125128,251,1,2,4557,Employed,Education,Owned
+94BCC8638,mqadyntc,xcpfkthi@example.com,32788034,153,4,2,7827,Employed,Small Business Funding,Owned
+2ADEB5478,inxjztcd,hvxkwkyd@example.com,28248845,219,7,2,2545,Self-employed,Small Business Funding,Owned
+252385FAF,kwbjzrlm,spalmilr@example.com,21499492,772,11,2,7683,Unemployed,Small Business Funding,Owned
+F3DB8BC7E,mjnlnphu,prcvnage@example.com,23938254,727,4,3,6719,Self-employed,Education,Owned
+4AC4D32AE,qgighzbu,daedbavu@example.com,16906251,686,6,3,5835,Employed,Small Business Funding,Mortgaged
+422B6CEC8,fkriniod,uyflrkwk@example.com,52094774,724,9,3,2593,Employed,Debt Consolidation,Rented
+9BDBE0BFF,gkkzcwtp,zncvfcsz@example.com,47905112,519,1,1,6839,Employed,Investment,Owned
+DC9A62152,ezegvhwv,nmdcgygb@example.com,73245988,521,5,4,9394,Employed,Investment,Owned
+34EA807D0,dlpancgn,bfaxkndh@example.com,84739275,203,11,2,7864,Unemployed,Home Improvement,Mortgaged
+3E79D5C29,zmwwbwdd,jfgygbzi@example.com,69239415,951,7,2,5804,Employed,Home Improvement,Mortgaged
+52E4BC434,nzdwroxy,bekkaohp@example.com,94156885,353,1,3,3459,Unemployed,Investment,Rented
+4DB553F0B,avljttss,pwivsmkh@example.com,25493299,326,4,2,8044,Employed,Debt Consolidation,Mortgaged
+4E1E77C1E,xbgvlmzi,ukkuaphe@example.com,76560318,211,6,2,5493,Unemployed,Education,Rented
+689CFF60E,zvpcrpwj,vqeqzjth@example.com,92180786,609,2,4,4601,Self-employed,Education,Owned
+34E4C2BAF,skkbgrdm,genrhyla@example.com,98725561,572,10,3,8164,Employed,Debt Consolidation,Owned
+6BBE370AA,llumdjnb,ziffvxzw@example.com,84796898,198,5,4,8697,Unemployed,Education,Rented
+99AE57B74,huztojua,kcmovvci@example.com,19082504,252,11,1,4444,Self-employed,Small Business Funding,Mortgaged
+19995BA57,tscpnbpv,ecurkesc@example.com,70148746,960,10,1,4672,Employed,Investment,Rented
+934AB1884,stocgclt,eiybqbwt@example.com,12226649,995,1,1,6200,Employed,Investment,Mortgaged
+DA808A84A,srqojyho,vnhnpavv@example.com,22376236,977,6,3,8335,Employed,Debt Consolidation,Owned
+1AE8F81DD,ziwpxlqk,kremepkl@example.com,95117505,437,6,2,2016,Unemployed,Education,Mortgaged
+C1B9587F0,xhxsdomd,dtjdomoa@example.com,85854744,805,4,3,5191,Unemployed,Home Improvement,Rented
+B21862A95,sfiuhmgc,ouidjguv@example.com,57108348,921,8,3,2392,Self-employed,Home Improvement,Rented
+4D9ECAECD,flpwduvn,ssqhkqxu@example.com,97655876,262,4,2,2424,Unemployed,Education,Owned
+17886B4E3,ofvxuvjd,xraqyvjc@example.com,74143986,819,8,4,8272,Unemployed,Home Improvement,Mortgaged
+9162A0AB4,xqydeiru,wkyhocxu@example.com,30918823,780,8,1,9297,Employed,Debt Consolidation,Mortgaged
+F60332E42,qpqdgquz,ncqghvkz@example.com,86951959,260,5,4,2571,Employed,Debt Consolidation,Mortgaged
+750A2FEE1,bguumvie,cwgxfywd@example.com,66305096,679,4,1,5631,Employed,Education,Owned
+DBCBFABA5,mwctsnwh,ysnhgmdu@example.com,22704054,900,2,3,8172,Employed,Home Improvement,Mortgaged
+1AFA3DD5F,kfrmylfa,qnrygfmu@example.com,62014823,497,11,1,3120,Employed,Debt Consolidation,Rented
+21AB44775,rsyjmsnx,nclnisxd@example.com,75311836,376,3,3,9177,Employed,Debt Consolidation,Mortgaged
+95D049155,tvrwfoeg,kvfzgdqs@example.com,33182063,915,3,4,2241,Employed,Small Business Funding,Owned
+EE2CE5B38,yrfalslb,vekyfkmx@example.com,72818468,603,4,3,5897,Self-employed,Small Business Funding,Mortgaged
+C5C1F92DB,ectcwjan,vbuelitg@example.com,83639744,995,4,4,6095,Self-employed,Debt Consolidation,Mortgaged
+94BBE3D2B,tknkgzif,wxxrrvld@example.com,30347657,491,10,2,4279,Self-employed,Education,Rented
+70FCF1FFF,zaswyonq,xizdikwu@example.com,30714571,234,11,2,2788,Self-employed,Investment,Mortgaged
+4188FF121,jpvdbmnv,wudqomde@example.com,69142476,294,11,2,9451,Employed,Investment,Rented
+55CA60EA4,igjuftlv,uqzxlala@example.com,29845690,500,5,3,2714,Self-employed,Debt Consolidation,Rented
+2950359E4,lfhtfajo,aaswabmo@example.com,48448574,739,4,2,6854,Employed,Debt Consolidation,Owned
+36B41EAAD,gseghnsb,tiacrvlf@example.com,12269412,132,11,1,4849,Self-employed,Debt Consolidation,Rented
+FC9C089CA,jlpthllg,nyzlzftl@example.com,39261291,787,10,4,2775,Unemployed,Education,Rented
+5EA760A1C,zyjttlzc,swyoedwt@example.com,35090589,559,8,4,6026,Self-employed,Small Business Funding,Owned
+B753D6CAA,xctyvkca,bmmdnapx@example.com,85824487,982,6,1,8869,Self-employed,Debt Consolidation,Rented
+6202134E1,zijwwdof,zqvhosbb@example.com,45984696,569,6,3,4247,Employed,Debt Consolidation,Owned
+A7A79888C,vrncynul,rtqfwqdn@example.com,94020639,474,8,3,9088,Self-employed,Home Improvement,Mortgaged
+AFE0DC6B7,wmhowgnu,zrbnugst@example.com,67964491,121,7,4,2078,Unemployed,Education,Owned
+848223CEC,bvgqzdon,nmpznppd@example.com,62857563,849,10,2,9099,Employed,Debt Consolidation,Rented
+565CE304E,vnmhgktn,zkjrmrnb@example.com,45651159,769,11,3,5926,Employed,Home Improvement,Owned
+2FEC0B8F3,hprgshjs,lwosiwbq@example.com,38942416,137,10,3,2855,Self-employed,Investment,Rented
+8E294487D,wqdtgwlr,wgklkrbp@example.com,63408483,329,8,1,9340,Employed,Debt Consolidation,Mortgaged
+B3C351060,rbwveqrs,wfeaoqwg@example.com,21363834,464,2,1,8610,Employed,Debt Consolidation,Owned
+42A0221CE,janhdazu,jmwbkxrk@example.com,85145096,662,9,2,8724,Employed,Home Improvement,Mortgaged
+2F6A1A782,hpidyapd,cmndolpz@example.com,99134110,537,1,3,7535,Employed,Education,Rented
+BF79ECD64,qpelxatq,mkgqrctj@example.com,58075423,875,8,3,9083,Employed,Debt Consolidation,Rented
+5AC15406C,edecillg,jesgpgyz@example.com,62156651,382,11,1,8592,Employed,Investment,Mortgaged
+BE37A1EDD,rjqeimxm,jxrjfoiu@example.com,55762391,126,4,3,8230,Unemployed,Debt Consolidation,Owned
+7BEFDE824,mtqiygsl,ymzzxdiv@example.com,62994452,325,4,4,4148,Self-employed,Investment,Owned
+71D4F8E54,yoneuxxg,sszhrhrb@example.com,30838840,376,5,1,3031,Unemployed,Small Business Funding,Rented
+9F51D9169,bzvsjuqr,nprueyhe@example.com,29351096,897,8,2,6940,Employed,Small Business Funding,Mortgaged
+708F814B2,mppzryza,xcintibv@example.com,72565355,708,5,1,5271,Employed,Investment,Mortgaged
+56F7F8C09,iqenvfex,rikvtxft@example.com,51041956,383,8,3,5576,Self-employed,Education,Owned
+936A70B6E,fxkewppi,jgasnpcg@example.com,43769765,978,10,2,6182,Unemployed,Debt Consolidation,Owned
+DBBE0F1EB,nkrvpavm,kmkasgqy@example.com,71655713,580,1,1,8186,Self-employed,Debt Consolidation,Owned
+D38C9BE27,dlaeosrm,syfyuqgx@example.com,56320683,552,10,4,5456,Unemployed,Small Business Funding,Mortgaged
+C6A9629EA,rdhbrlxd,yelcgtup@example.com,23774868,928,9,4,9788,Employed,Investment,Owned
+FB840E21B,lmcjfqre,bcuzvkve@example.com,82907038,915,6,1,5506,Self-employed,Debt Consolidation,Owned
+8A6B4252D,yqnmskfi,oiytonqz@example.com,56716749,758,3,4,2407,Self-employed,Debt Consolidation,Rented
+42EECADBD,luejxgih,tkhgybge@example.com,74692744,615,8,4,9650,Employed,Education,Owned
+0FF555085,drqwlkxl,bferzmjv@example.com,91826271,646,9,4,4711,Self-employed,Home Improvement,Owned
+01A9F3D0F,zgraaeux,iqdegpmq@example.com,93055029,291,6,2,5088,Unemployed,Small Business Funding,Mortgaged
+FEBD0524E,qsgxovbu,pwdebmih@example.com,56386244,148,11,4,3668,Unemployed,Small Business Funding,Mortgaged
+91CC0AA5C,rdowdatu,vhojzxfj@example.com,20883743,611,7,4,2147,Unemployed,Home Improvement,Rented
+281D4D491,uhnxxtue,htlvjsvj@example.com,68708553,116,1,4,8420,Unemployed,Debt Consolidation,Owned
+D2BC20C0D,tupqpprn,gznkjeli@example.com,93811446,271,5,2,6327,Employed,Education,Rented
+831E9F653,heyvutiu,uxgwkaqh@example.com,42850991,319,5,1,5897,Self-employed,Education,Mortgaged
+5777E38EB,lshmqqwt,fxdyqojk@example.com,73793847,257,10,3,3950,Unemployed,Small Business Funding,Rented
+775506F2A,epmzoxhq,uuftsjia@example.com,54005810,576,4,4,2365,Employed,Education,Mortgaged
+088FDABA6,ssacuhae,abuvlqmk@example.com,23907759,145,6,1,9395,Self-employed,Home Improvement,Rented
+1FB3A865E,tamjhgfb,xbosbhbb@example.com,58951793,472,7,4,3674,Self-employed,Debt Consolidation,Rented
+970B0407F,ifzlbwko,vkfbfgxf@example.com,19992052,617,9,2,6531,Employed,Home Improvement,Owned
+5E5B0F819,fxokiiur,ptjgibpo@example.com,46918783,198,1,1,6494,Employed,Investment,Rented
+89F09DC23,fnaprvqc,muuyoryz@example.com,27109377,991,6,2,7330,Unemployed,Small Business Funding,Owned
+3C0632DBF,podmbgnr,ddipozrx@example.com,77917977,844,7,4,7510,Self-employed,Education,Owned
+7FEE1881D,nzlqbunj,vjshyidw@example.com,94223915,136,3,4,4546,Self-employed,Investment,Owned
+96DD9EC80,emedmjeu,vswtktvw@example.com,39830805,379,8,2,8683,Employed,Education,Owned
+6CE42748C,ekzheqte,bsmmsowf@example.com,78216481,448,5,3,2562,Self-employed,Debt Consolidation,Rented
+4B1D74D8C,rjtectmn,xqhyusgi@example.com,26599864,596,9,2,5562,Unemployed,Debt Consolidation,Mortgaged
+4F63D3B74,gdudxkrj,lvbgdrxb@example.com,46944608,401,5,4,4489,Self-employed,Debt Consolidation,Mortgaged
+604A344FB,ufmrprzt,mxtqhmfd@example.com,43804210,280,9,2,7380,Employed,Education,Mortgaged
+E9EAEE7A9,dwclypnv,unffzqsm@example.com,84629751,706,10,3,2772,Employed,Investment,Rented
+9F49AC78A,xspbykib,qpjwntth@example.com,10420038,198,4,2,8493,Unemployed,Debt Consolidation,Owned
+E50E77BA4,yxmmbsrk,vcmzsjqa@example.com,88494936,799,9,3,4037,Unemployed,Investment,Mortgaged
+394DE3800,ecghjnqk,hixcdkts@example.com,89182138,215,5,3,5423,Self-employed,Education,Rented
+467DB151C,qybwsfhu,mruieaxk@example.com,59176834,290,10,2,4567,Self-employed,Investment,Owned
+DD236976C,kwhgbike,lbgffssm@example.com,48407563,352,9,2,7439,Employed,Education,Mortgaged
+B6751E4AB,gspfqgly,nrhvhihc@example.com,63885046,260,3,1,8281,Unemployed,Education,Owned
+DC7409441,dzovdhmz,hpekkdtx@example.com,30791372,355,4,4,3573,Unemployed,Small Business Funding,Mortgaged
+24BD344E2,cocguhxz,dwipeflx@example.com,92053846,422,9,3,5694,Unemployed,Education,Mortgaged
+68DFAD483,ffdirxhn,asfhwtva@example.com,83607933,227,10,1,7087,Self-employed,Education,Mortgaged
+9FBB28DA5,hzjibrqi,cylrfthp@example.com,49783161,117,11,2,8511,Unemployed,Home Improvement,Owned
+3299774B6,rzdqjihy,cqpcuekh@example.com,36531877,892,6,4,5291,Employed,Debt Consolidation,Rented
+0ADE7FF57,olusomna,mergfmia@example.com,43249722,834,2,1,9504,Employed,Small Business Funding,Owned
+1DFBC561E,iemqzqmk,wbbqihdt@example.com,86757044,665,7,3,3246,Self-employed,Small Business Funding,Mortgaged
+7979DDA30,slcbvrwo,kpleubwv@example.com,94452363,669,2,1,5719,Self-employed,Small Business Funding,Owned
+3D9952B7A,pzzmnalu,mzpcgtmd@example.com,78722760,422,11,3,5839,Unemployed,Home Improvement,Rented
+ACC05518C,znemsodz,mnjqdwlg@example.com,16175230,971,2,2,2359,Self-employed,Education,Owned
+F7FC9A911,ujzqvwmw,bvslhnmt@example.com,57300674,785,11,4,7016,Employed,Debt Consolidation,Rented
+21ED52D9E,ugxowavx,vwnslxlv@example.com,73720297,891,1,4,4376,Unemployed,Investment,Rented
+5546A805F,qcppndpp,autfbigw@example.com,69335566,725,11,4,5009,Employed,Education,Owned
+903E4B900,gbqiajdc,bqidjcgx@example.com,90352649,387,11,2,8606,Unemployed,Home Improvement,Mortgaged
+D6DF3BE3D,qcnqvmsm,trrfiere@example.com,14513881,953,11,3,4993,Self-employed,Education,Rented
+29E7A1A2D,rbrcozqq,muhcojbd@example.com,55363810,762,3,2,2962,Unemployed,Education,Owned
+7D142F3D3,wlqohdah,qslipxxj@example.com,24467369,738,6,4,5632,Unemployed,Home Improvement,Rented
+F7EE26B0A,jozqhziq,ljfnqxen@example.com,95844518,254,8,2,3827,Employed,Small Business Funding,Mortgaged
+61180EDF2,zkuwkxod,dkrfaeoh@example.com,13096449,589,9,2,9549,Employed,Small Business Funding,Owned
+E4877B0BF,jahqtzag,qzoniqnb@example.com,53656395,485,7,2,8979,Unemployed,Debt Consolidation,Owned
+3B3962134,nwbhezqv,dvbwzghf@example.com,59231229,884,4,3,3613,Self-employed,Debt Consolidation,Owned
+32B4D796C,ndhwmgap,ucuwnqvh@example.com,13515894,203,6,1,3640,Self-employed,Small Business Funding,Mortgaged
+B85E195CE,bywsahco,smgcqaex@example.com,16286031,492,5,1,4216,Employed,Investment,Rented
+A7A406C50,rmjxfqbz,zruvmjxc@example.com,49203760,910,8,2,6312,Self-employed,Education,Owned
+514458450,zhhzzgtk,uyadryub@example.com,61812965,345,1,1,2377,Employed,Investment,Rented
+D0034B0C5,vyeepizu,dxxnverk@example.com,70597324,275,1,1,6214,Self-employed,Education,Rented
+66A7EF00A,cysvvxrm,ndjhwssq@example.com,26319188,138,11,2,6285,Unemployed,Small Business Funding,Mortgaged
+C14B41467,ohhraziz,nzcpmibl@example.com,72578627,576,6,2,8910,Employed,Debt Consolidation,Owned
+452AAC63E,beadpxpj,urlllrcn@example.com,92014745,781,10,4,2369,Employed,Debt Consolidation,Rented
+D10AA87EA,beiejsxh,swyxejxu@example.com,26172262,858,2,1,7897,Unemployed,Investment,Owned
+904CDCE1F,audrdlmm,xucygwgk@example.com,60852883,637,5,3,4196,Employed,Debt Consolidation,Owned
+931555F37,lncbaeby,dmrhwanm@example.com,75753529,966,1,2,5747,Self-employed,Small Business Funding,Mortgaged
+C91181942,ukjnnekr,mjqnfctb@example.com,28451120,917,7,4,2651,Self-employed,Investment,Owned
+A58FFC45A,tcphdakd,kuccfyrw@example.com,49714127,507,1,3,7978,Employed,Education,Owned
+6CB36222C,nhazmvop,aapauajp@example.com,17510008,624,4,1,7607,Self-employed,Debt Consolidation,Rented
+6A010F403,wkvjlwuu,hbvmfjti@example.com,97540947,927,9,4,2769,Employed,Home Improvement,Mortgaged
+68B196A53,fngpgsbt,letbikvk@example.com,61318039,605,1,2,4421,Unemployed,Debt Consolidation,Owned
+D0CDC7EF1,tpjahzxu,gontbtru@example.com,25046918,924,4,3,2780,Employed,Education,Rented
+2E42AB631,klqpeoba,yqiwqkor@example.com,41719201,135,6,2,3716,Unemployed,Investment,Mortgaged
+E7E684B5B,uydwndqp,mfnvvzoc@example.com,49349900,784,6,1,8303,Self-employed,Education,Mortgaged
+12841EF74,kcvxkcdk,enrjlfko@example.com,54653343,119,8,3,8494,Unemployed,Home Improvement,Rented
+5AA62CD7B,fjcvgfqw,uxygeblj@example.com,24633354,420,1,1,5983,Self-employed,Small Business Funding,Rented
+160D214A4,endljttu,boztlsnh@example.com,10900939,875,7,1,3311,Employed,Debt Consolidation,Rented
+849CD8E2D,ufnxiuep,guoicfaw@example.com,69312960,611,1,4,5359,Self-employed,Investment,Rented
+D613DF292,qkjhovcq,uxcqjplu@example.com,12580700,499,7,2,9035,Employed,Small Business Funding,Rented
+2CAD73100,iremjqiu,bmspsfup@example.com,36473973,753,3,3,7345,Employed,Education,Owned
+BBC286AA6,xowzftoh,stqmzvai@example.com,62223246,982,11,1,2522,Unemployed,Investment,Owned
+16F9A5538,ulyoeoyo,wqoixdos@example.com,87627987,570,8,1,2521,Unemployed,Small Business Funding,Mortgaged
+04D15EF62,pdarcqsb,gmedamco@example.com,34244212,242,3,3,6878,Unemployed,Investment,Owned
+6A4E53250,dmwtkhdy,qxrtwfmq@example.com,86989857,191,1,1,4320,Unemployed,Home Improvement,Owned
+31EF28355,knnbhgab,aoplhnxg@example.com,21616111,453,8,4,2935,Self-employed,Home Improvement,Owned
+B7B1471D1,hzbhnasi,rtpbfrak@example.com,35899937,933,3,4,9569,Self-employed,Debt Consolidation,Rented
+F48D2F823,walvkxuf,trnnoypr@example.com,29130103,899,2,4,4230,Self-employed,Debt Consolidation,Mortgaged
+82DE893E6,lrvdxwuf,zpxhiojl@example.com,24068192,826,1,4,6040,Employed,Home Improvement,Mortgaged
+669A89F0B,jxphuhtv,khppephk@example.com,22280021,953,3,1,7784,Self-employed,Investment,Mortgaged
+6763E80FF,unkjwdtb,ohptdpmn@example.com,56075677,150,2,3,6583,Self-employed,Home Improvement,Mortgaged
+EC52736E8,myiucupc,xslviqnf@example.com,92760791,764,2,3,7946,Self-employed,Debt Consolidation,Owned
+94C70FC9C,oioiryrr,zjywlpqa@example.com,79768820,797,6,3,6941,Unemployed,Home Improvement,Owned
+0802A99BD,ejoivbal,ceuplzmx@example.com,72531603,674,1,3,8267,Self-employed,Home Improvement,Rented
+EFB900508,nsigcevs,gfhwzksl@example.com,56377449,289,2,2,9128,Employed,Investment,Mortgaged
+F4837C6D1,izqnhevu,tnktwsbn@example.com,40565262,224,6,3,5697,Unemployed,Small Business Funding,Owned
+63D09F718,jgkihodk,lnnojdbj@example.com,55599058,249,3,2,4837,Employed,Debt Consolidation,Owned
+628D9FBDD,atjchizz,hfrwchxi@example.com,40067226,413,4,2,6083,Self-employed,Investment,Rented
+CC56732B9,rvilljwd,yvtipkns@example.com,17648501,669,1,4,4461,Unemployed,Home Improvement,Rented
+C64A99518,cguobdaz,qrjihhci@example.com,36476722,441,8,2,8099,Employed,Home Improvement,Rented
+FBD1BC1FE,daxykryj,wtmacikf@example.com,91621738,404,7,1,7844,Self-employed,Small Business Funding,Owned
+67CF1B516,wzcpxqmp,vxitpzep@example.com,76497180,791,7,2,5243,Employed,Debt Consolidation,Owned
+B1A1D2D7F,ifurozzn,pgeybbfi@example.com,28925279,781,3,4,5359,Employed,Debt Consolidation,Rented
+DD2CAD745,csvrktzz,faajcezt@example.com,93910116,937,10,2,9602,Employed,Education,Mortgaged
+E8B93814C,ossvtutr,ysvdriyq@example.com,28372429,882,10,1,2685,Self-employed,Debt Consolidation,Rented
+5D0E0EE48,wauntkzc,xvmuiwcw@example.com,38708750,153,3,1,4160,Self-employed,Small Business Funding,Rented
+4AD11B2CC,bkkbcunp,uakwlgee@example.com,23392082,543,2,1,9031,Employed,Education,Rented
+D0FAF91E8,bwlfegmj,snpbhgdk@example.com,25235258,712,1,4,5988,Unemployed,Education,Rented
+3B083ADF6,qcqtykjl,kktgfvld@example.com,53947845,363,7,4,6066,Unemployed,Home Improvement,Owned
+A6DFCF9E0,mpwwygxk,tminmriw@example.com,15604394,152,7,3,8265,Self-employed,Home Improvement,Mortgaged
+7660CB63A,ryuosiql,nmzetruv@example.com,66432524,671,2,4,3567,Self-employed,Debt Consolidation,Rented
+B1E553810,ejzpbobj,wlwzqagu@example.com,95964968,719,7,1,7341,Self-employed,Education,Mortgaged
+8247B54C6,hntaaqjk,rxlsyrbu@example.com,79355891,104,8,1,9798,Self-employed,Home Improvement,Mortgaged
+586F0D035,lhjeppwe,dvpbptdv@example.com,26710641,202,1,4,2038,Self-employed,Small Business Funding,Mortgaged
+3E985CCD9,kbdsoohd,sehkfdek@example.com,79173890,295,9,2,4544,Unemployed,Home Improvement,Rented
+8431B0336,aeblbagp,ezksymqd@example.com,34021714,873,7,4,6875,Self-employed,Home Improvement,Owned
+22787FF40,ilctflkw,krxlckyl@example.com,66545636,976,3,4,3256,Employed,Education,Rented
+F6A1D4118,pshgxrbb,dyikqwbq@example.com,84503590,983,8,1,4990,Employed,Education,Mortgaged
+09E394AFB,hotwkoou,uaepqodq@example.com,27477161,449,7,3,9697,Unemployed,Investment,Mortgaged
+3A3C6C04D,ppahfkrp,jynqyxbn@example.com,20221232,146,11,1,4196,Employed,Small Business Funding,Owned
+C04E4A9A6,ekhpqvda,wmsncemz@example.com,72584045,966,8,3,5468,Unemployed,Education,Rented
+C150D9A96,hzczqzui,qqeossab@example.com,10114901,922,6,1,9165,Unemployed,Debt Consolidation,Mortgaged
+AACF6EF84,epensizi,keerpwwx@example.com,47327188,919,9,4,4708,Employed,Small Business Funding,Owned
+BDD507763,abyfysto,waskgdlu@example.com,79542761,755,5,1,9805,Self-employed,Small Business Funding,Mortgaged
+F03A3C130,wkvzkeyg,kkolykus@example.com,15018357,368,3,1,8023,Employed,Education,Owned
+F65602991,nhhnkisa,mihhrnhu@example.com,29415709,469,3,1,2301,Employed,Small Business Funding,Owned
+DC1C0CA23,pgwmztbn,ftiscexy@example.com,11927581,735,1,4,9527,Unemployed,Education,Rented
+8B35CDF1E,wcdzsush,pckogrtc@example.com,54682991,205,8,4,8381,Employed,Home Improvement,Mortgaged
+5DB9A144F,ezcoyulc,yszdibrv@example.com,32064284,769,2,4,2646,Unemployed,Investment,Rented
+3265C9E15,qhzhbzzg,rjycmqkp@example.com,11575962,758,3,4,6758,Self-employed,Home Improvement,Mortgaged
+83DB3F1FE,xvngcnux,ducqkuws@example.com,54673907,756,8,3,8379,Self-employed,Education,Rented
+47CD60DDB,qnbnddyb,yrbbcmow@example.com,65957298,219,8,3,3759,Self-employed,Education,Mortgaged
+CB91A304D,mqqpdkzm,bksobhxj@example.com,13708339,930,11,2,8346,Employed,Home Improvement,Rented
+CC7415439,fuznjnyo,pinopzrc@example.com,43399106,886,4,4,6351,Unemployed,Debt Consolidation,Owned
+FAB273119,rzsprzwq,wxvgmhlr@example.com,77047904,703,4,3,2597,Self-employed,Debt Consolidation,Mortgaged
+C92D7D573,fcsonilg,nqueliey@example.com,63368094,157,5,1,2661,Unemployed,Debt Consolidation,Mortgaged
+7B4A98115,yhvklwbj,xpxpnxop@example.com,74540049,445,6,4,6330,Unemployed,Education,Owned
+A8DC17FA1,dxkdhcld,ekxhsxjq@example.com,32994364,840,5,2,3368,Self-employed,Small Business Funding,Rented
+8E445B950,yvokqajl,ftocfxab@example.com,33087786,573,7,2,4581,Self-employed,Education,Mortgaged
+A53881AEB,ukytuzhs,yuqnfzhq@example.com,73934785,216,2,2,9003,Unemployed,Small Business Funding,Mortgaged
+78FF95A68,snaqpepq,rrkyfbma@example.com,40262140,929,7,1,5868,Self-employed,Home Improvement,Rented
+1408CB7F8,iddxwese,xzickqqq@example.com,68319011,890,10,3,9948,Unemployed,Investment,Owned
+8AE7DF0BD,cnmltvog,reyiwogn@example.com,54587395,226,7,1,5537,Unemployed,Small Business Funding,Rented
+DF51A712D,unbfezfk,qaggftkg@example.com,49986531,492,1,4,6865,Self-employed,Debt Consolidation,Rented
+ECCDE250F,rghhhyla,ogizakaw@example.com,59335611,740,7,2,8684,Employed,Education,Rented
+D16611D7B,nvlolfqa,hhunjbbt@example.com,33792590,157,5,1,6308,Self-employed,Home Improvement,Mortgaged
+3CF6B857C,oenhuowf,dsujmpqe@example.com,39868305,733,3,1,6558,Employed,Debt Consolidation,Owned
+13A40F95C,necgxqkm,bmalynlz@example.com,48117024,612,3,3,8579,Unemployed,Home Improvement,Owned
+4244121CC,hrnbwjbi,aeyvrayt@example.com,41148993,850,4,3,2282,Unemployed,Investment,Rented
+9B7D78327,vcplqhau,nsuxeqsj@example.com,27169495,901,2,2,9729,Employed,Education,Mortgaged
+FE27A12BF,zdzlhqdm,ijykoxni@example.com,80514216,195,2,1,5678,Unemployed,Education,Rented
+875FAA033,ikqiwwxr,rdgzfvjq@example.com,97267873,737,1,1,3486,Employed,Investment,Mortgaged
+B682E0D8B,yeesjkmx,rzvarbqq@example.com,97451613,217,5,3,6082,Employed,Education,Mortgaged
+0B458F3B8,megxjepu,cxhxddyv@example.com,55878153,659,4,1,7526,Unemployed,Small Business Funding,Mortgaged
+76332D010,uhuphfks,vnbnrkcw@example.com,73751335,700,11,1,6183,Employed,Home Improvement,Mortgaged
+A89591E81,mnjkcdhq,aixgcmqh@example.com,32148640,587,10,1,7163,Self-employed,Debt Consolidation,Owned
+3267AA541,nhfslqfy,hmjlalub@example.com,69258622,336,2,3,2460,Self-employed,Investment,Mortgaged
+5CA0E2877,qrezelao,fxcquzel@example.com,45127116,984,3,2,4325,Unemployed,Small Business Funding,Mortgaged
+6993EFE13,mondhjgk,dxekkbzg@example.com,85597413,996,7,4,5754,Unemployed,Debt Consolidation,Rented
+8E93E8710,ydqirqwx,hdgntrfb@example.com,29887965,371,7,2,4468,Employed,Debt Consolidation,Rented
+E18774A3C,rmjpbaos,gaonrohw@example.com,85733447,288,4,4,3724,Employed,Investment,Owned
+70EECBDE9,ezivkusu,wgntdxdo@example.com,88258134,803,5,1,3376,Employed,Small Business Funding,Rented
+211B1DFDF,ktdmxzqc,ftglvhob@example.com,59112564,546,5,2,4743,Employed,Debt Consolidation,Mortgaged
+C88B2EC39,rcibkawp,svhpavfr@example.com,88683215,680,6,4,2514,Self-employed,Debt Consolidation,Rented
+CD794218E,vttedxaj,cfolmtpa@example.com,68950963,889,9,3,2702,Self-employed,Small Business Funding,Owned
+0B0CBCD61,gpglazag,loktzofi@example.com,68363745,960,2,3,3653,Unemployed,Education,Rented
+D7126F932,tfnfalho,mwddplim@example.com,19833213,346,5,2,4066,Employed,Debt Consolidation,Rented
+52AFC44E9,jxihqwvy,mkrjktgp@example.com,56478643,175,3,2,2022,Employed,Home Improvement,Owned
+BBF8E969B,zumicofv,xicrvkgx@example.com,74084636,253,4,1,4460,Unemployed,Small Business Funding,Owned
+B0354F736,nwdyfegr,peqlgqcd@example.com,94506124,755,10,2,7149,Employed,Debt Consolidation,Mortgaged
+EF3DE6A26,hzbmdugf,mdqzewaw@example.com,20927856,534,6,1,7926,Employed,Investment,Rented
+53BF76553,zsmpqtns,lvlqoujd@example.com,92403235,185,8,1,8251,Employed,Home Improvement,Mortgaged
+25E14628A,rrikkism,jwvdrfsa@example.com,86514295,796,1,3,9534,Employed,Debt Consolidation,Rented
+9CE510046,glqdufmh,bhvuqnkl@example.com,12529837,384,10,3,3304,Employed,Home Improvement,Rented
+1B1CC5805,cyzqfgwt,ogzqrgld@example.com,65125191,319,8,4,9295,Unemployed,Home Improvement,Mortgaged
+00A28E84D,pbrosymx,xwilnmxx@example.com,74516930,168,11,3,5300,Employed,Education,Rented
+60E0BBF18,gjhzgkyv,hppdcpbs@example.com,38112935,146,7,3,7230,Unemployed,Home Improvement,Rented
+A2D45108A,ahqbvrgm,bocstcsj@example.com,55022474,193,1,2,8279,Employed,Education,Rented
+580EE77EE,pfbdnfbm,xryxuodp@example.com,49969943,849,2,3,2361,Self-employed,Small Business Funding,Owned
+F64AEC722,bzekolmr,rarkywcx@example.com,82879839,552,3,4,9353,Self-employed,Education,Mortgaged
+B5FE5B1E1,eavkozhf,typbplva@example.com,76544968,303,1,2,5727,Self-employed,Investment,Owned
+9DBD0750C,uyevtyss,yrmroskj@example.com,42025289,317,9,4,9751,Self-employed,Debt Consolidation,Mortgaged
+1022AEC23,sbqvcfed,gvqkfelr@example.com,34347745,573,8,3,8272,Unemployed,Small Business Funding,Mortgaged
+748F79532,seezrjsd,tywfqzma@example.com,88664959,531,2,4,7995,Unemployed,Small Business Funding,Rented
+ADF519475,hqqiscns,zlkncyzu@example.com,84646271,440,9,2,3284,Employed,Investment,Mortgaged
+05C5F2291,rgnnkgxq,itrdojvn@example.com,11511116,650,7,1,2514,Self-employed,Education,Owned
+7F782199E,sgqshouf,pmjuzdoc@example.com,49278244,711,9,4,2448,Unemployed,Debt Consolidation,Owned
+0C485DC0B,makmvkpz,irslvuzr@example.com,67023834,388,6,4,8019,Employed,Education,Owned
+E3C50358D,imjcqvaf,vbgnskbh@example.com,21911364,353,6,2,9271,Employed,Home Improvement,Mortgaged
+4D0B0BBAC,gwvbwmcm,yytrcmmx@example.com,35063482,833,11,2,7602,Unemployed,Education,Owned
+D02CF1D2D,nflnxbph,zosvytah@example.com,77542846,456,4,4,7343,Self-employed,Small Business Funding,Mortgaged
+3A4F4EC55,cexssqww,ceuflroe@example.com,15427833,122,10,3,3855,Employed,Debt Consolidation,Owned
+455EA09B9,dmghtbwk,zbkrzlin@example.com,37530613,861,10,4,6969,Self-employed,Education,Owned
+40B596BD5,xyvtfieo,ynscvkwj@example.com,15497878,621,2,2,5562,Self-employed,Debt Consolidation,Mortgaged
+BE28F4109,fxgzrsco,nktfpvgc@example.com,65662894,857,7,1,4520,Self-employed,Debt Consolidation,Owned
+CEC60E4CA,qhlbwyok,tofbukqe@example.com,43348300,936,5,1,5081,Employed,Home Improvement,Rented
+C43DDD252,owklmreg,xpgpcpbc@example.com,69040711,199,11,3,3428,Self-employed,Home Improvement,Mortgaged
+0E93BB986,nqdzrnni,aiboyily@example.com,47445557,901,6,4,5967,Employed,Small Business Funding,Mortgaged
+1B5E188B9,nwwnejfl,eganjtib@example.com,85991729,279,2,1,8445,Self-employed,Investment,Mortgaged
+9836CA46A,gwmwwydu,rmrowdfo@example.com,53937884,322,5,4,8374,Employed,Debt Consolidation,Rented
+2512E6E1F,uhymaqqt,jyhgxepe@example.com,89645723,861,10,2,7850,Self-employed,Investment,Mortgaged
+B877337D3,tzapooxh,opwkhree@example.com,64554798,758,4,1,2922,Unemployed,Small Business Funding,Owned
+A3FE281CD,qtirzwje,femwhpxo@example.com,45981725,541,9,3,5137,Self-employed,Debt Consolidation,Owned
+2783B777E,hlqncevy,xmeegpuh@example.com,90536336,707,6,2,9080,Self-employed,Debt Consolidation,Owned
+C269136EB,nfcbtxsp,waakwedf@example.com,14274026,868,2,3,4159,Employed,Investment,Mortgaged
+C9E23F079,pvobtiac,uhzpaztr@example.com,97761551,424,1,2,7132,Employed,Education,Owned
+8CBB12EF2,mltfeuws,aoxnkdjq@example.com,54579788,615,5,1,7512,Self-employed,Home Improvement,Mortgaged
+8D1E60F14,hybfmvvw,ggmimhsc@example.com,32109448,115,9,3,4547,Unemployed,Education,Owned
+CF0AB1434,uycsjthf,emrzoowy@example.com,80224064,891,6,3,4979,Unemployed,Investment,Rented
+B65C4D387,gltkptua,jbteyoyz@example.com,63644243,435,10,2,8741,Employed,Home Improvement,Rented
+4DBC30DCC,kigppgfx,heuhaxid@example.com,51077107,858,7,3,4281,Unemployed,Education,Rented
+02B6C5FF4,efuleiqh,mjiujnxz@example.com,15320867,357,5,2,4649,Self-employed,Home Improvement,Rented
+BB24B079D,hifjmeit,wdbvytpg@example.com,92902639,596,10,2,2313,Employed,Debt Consolidation,Mortgaged
+A4DCC2E09,cmkhmhxi,sgqkihro@example.com,39597560,995,6,2,4613,Self-employed,Education,Owned
+65444B231,tdyfpiqq,ugelapzd@example.com,91446364,259,5,2,5083,Employed,Home Improvement,Rented
+EC3552945,lrfgwuuf,yugtssch@example.com,54929603,574,11,1,4256,Employed,Home Improvement,Mortgaged
+A966F112E,erwkznmd,bhzmsceb@example.com,18787150,951,9,2,8093,Employed,Home Improvement,Rented
+128BC764A,urpxytbt,ewqrpdgg@example.com,25071078,763,6,4,3037,Employed,Education,Rented
+3A8DCB6EF,ehlmikzo,nrgirrxe@example.com,96599014,789,11,3,7752,Unemployed,Small Business Funding,Mortgaged
+96EA50827,leaxzbte,dxfovoxl@example.com,49752530,774,8,4,5489,Self-employed,Education,Mortgaged
+9AA79EFD7,ayfzohqn,possolan@example.com,30131144,479,2,1,9604,Self-employed,Investment,Owned
+787318316,qbylxkbd,dxqpbzov@example.com,19325918,644,9,4,9544,Self-employed,Education,Owned
+B10922D2E,akyjvkom,tvhzxijt@example.com,80844768,790,5,3,9187,Employed,Home Improvement,Rented
+F3087634C,xrqttptm,hblqshnb@example.com,78656059,526,7,4,4634,Unemployed,Debt Consolidation,Rented
+96F48F7E3,jmhxjtqs,ayzqosll@example.com,24284886,712,10,1,5983,Self-employed,Education,Owned
+4D2F86051,rynwudhe,rexsenms@example.com,67306608,367,1,2,3778,Unemployed,Education,Owned
+9359403AF,ciippgfv,fzpkrwfn@example.com,37518912,934,10,4,9902,Employed,Home Improvement,Mortgaged
+8018E5A20,jepqfpnf,vpaamhiv@example.com,91252795,676,5,1,7110,Self-employed,Debt Consolidation,Owned
+AF3218F5C,edogekry,yapqhznh@example.com,14399449,516,10,1,7189,Unemployed,Debt Consolidation,Owned
+C774B34B5,pbzokdhy,cvmofsqn@example.com,20479932,267,2,3,5895,Employed,Investment,Rented
+EE8D4795E,abvqmdtk,qsdcqkbg@example.com,76344249,941,6,3,9378,Unemployed,Education,Owned
+B1FA8B9D4,cfsdvwuk,cfofegzq@example.com,33668674,142,11,4,3124,Self-employed,Debt Consolidation,Rented
+74B8E7DFD,tseufhda,dlzjbzvm@example.com,33135853,655,1,2,2697,Self-employed,Debt Consolidation,Owned
+6D45BEE4F,ywrwmyiz,jdokxfjt@example.com,47944725,384,3,1,4179,Employed,Small Business Funding,Mortgaged
+42039A8C0,ceihhmhz,bhdezmbs@example.com,20494718,496,5,4,9790,Employed,Small Business Funding,Owned
+C60DB494F,qbndtayz,ckzovouz@example.com,86802201,111,4,1,3404,Employed,Debt Consolidation,Owned
+DFB0F4A73,npotoluo,oazvvlbt@example.com,74303279,706,3,1,7251,Unemployed,Investment,Owned
+A5375C1BD,nxbznbnf,uugnldbq@example.com,58974328,401,10,2,3043,Unemployed,Debt Consolidation,Rented
+00BD21D9E,uqrohhbp,cyclcoaw@example.com,81982172,997,5,2,3929,Unemployed,Home Improvement,Mortgaged
+C38C44CF4,iyrljmvn,doxkctnl@example.com,82590999,352,11,4,8679,Employed,Education,Owned
+BC4047F31,swsnrija,wnxyqauv@example.com,37229913,598,8,2,3013,Self-employed,Investment,Rented
+0E3FB46B5,ayabjivl,usdtrxey@example.com,93760094,853,11,2,2226,Self-employed,Home Improvement,Mortgaged
+BC775EFA5,uxoagjvd,xjsobdvz@example.com,52259161,134,4,4,9321,Unemployed,Investment,Rented
+213550644,osvqkkmi,ovbaxhxz@example.com,50717588,826,1,2,3828,Unemployed,Home Improvement,Rented
+427064057,wkzqxnlr,cqoabowa@example.com,77758390,948,11,3,9909,Self-employed,Education,Mortgaged
+881FD7E1F,iupaycnz,ogghnswo@example.com,33024227,189,7,1,7588,Self-employed,Education,Owned
+F0DADD343,svubyzfx,nklktahy@example.com,39697540,875,8,1,6917,Unemployed,Small Business Funding,Rented
+666BC03C0,tyziqjve,hscbseug@example.com,98463010,704,3,1,4023,Unemployed,Home Improvement,Rented
+4CAF8BE0C,nkvbpgvg,soxkqime@example.com,43332921,701,6,1,6966,Self-employed,Small Business Funding,Owned
+6A6970502,zjfrhzqa,jiiunjla@example.com,75078746,517,2,4,4452,Employed,Home Improvement,Owned
+B2307C726,uipmtcol,gjamhqfk@example.com,50823964,214,7,1,8345,Unemployed,Small Business Funding,Mortgaged
+F71EBAC1B,bibotdlb,kuakvzlw@example.com,25828674,716,8,1,4085,Self-employed,Education,Mortgaged
+57A5FBC40,nltprfrh,ftfbsglc@example.com,65092085,295,6,1,9085,Self-employed,Investment,Mortgaged
+BFBF3409A,bvcibvap,nxwcczih@example.com,60780687,925,6,1,7891,Self-employed,Small Business Funding,Owned
+CDE8EB304,cwtssrnn,rsxlhjuy@example.com,54138651,600,5,3,6283,Self-employed,Home Improvement,Rented
+691187C08,rxwwywls,fzfslloa@example.com,57014243,725,8,1,3080,Employed,Home Improvement,Rented
+A2B148755,peokvceq,pklselkn@example.com,21077805,592,1,3,7036,Self-employed,Education,Mortgaged
+928409E8D,nvxnoxoi,xnvujmbl@example.com,10815141,174,10,4,9187,Unemployed,Home Improvement,Owned
+6E9AB0B04,cgowwqcx,dabojsij@example.com,79021417,512,4,2,4320,Employed,Debt Consolidation,Rented
+844640220,udoamhys,hzcmiibg@example.com,52505831,475,4,1,5190,Self-employed,Investment,Mortgaged
+CE952C94F,whapnujs,kuadnuvw@example.com,91076452,519,3,2,4630,Employed,Small Business Funding,Rented
+AED01248F,ptloqtpt,uaxyiyxr@example.com,47672435,828,3,2,4563,Unemployed,Investment,Rented
+02856B7B9,fgxeyfyg,vowbmjnf@example.com,69124308,376,4,4,5292,Self-employed,Education,Owned
+F0859D92C,yohxqnkh,owsccjrz@example.com,95925588,860,11,2,6621,Unemployed,Small Business Funding,Owned
+4027E51EB,pmjzdyvw,jczpmlgq@example.com,68925834,775,1,3,5586,Self-employed,Small Business Funding,Rented
+50301EB06,fpseghxv,rpsndhwd@example.com,38766966,493,11,2,9895,Self-employed,Debt Consolidation,Mortgaged
+8D6FC75CF,fuertrfu,lylwjnyd@example.com,94764945,968,11,2,9908,Self-employed,Education,Owned
+766684B35,qktdsadt,pxgewzdt@example.com,70538293,556,2,2,6431,Self-employed,Home Improvement,Rented
+843D9FDD6,znvnhzne,junoxxyf@example.com,35590964,291,9,1,8841,Self-employed,Debt Consolidation,Owned
+BE6D5637B,iaaprjnr,gmlwfhrs@example.com,42052859,838,10,1,7174,Employed,Debt Consolidation,Owned
+005237A9C,rpcuisqp,mrlakycd@example.com,73727877,788,2,3,8643,Self-employed,Investment,Owned
+8A92292F2,ykzuwbet,otwqremc@example.com,40827512,198,5,3,4947,Self-employed,Investment,Rented
+7E2351F34,rjcwrqqb,xdbzxtju@example.com,86071745,647,9,1,5959,Employed,Investment,Mortgaged
+469F8DB63,jdafbqxw,tlszzjcx@example.com,52086286,195,9,3,4813,Employed,Debt Consolidation,Mortgaged
+96AC41250,fjusirpr,inhqsqbz@example.com,50529230,763,8,1,4583,Employed,Home Improvement,Mortgaged
+02F03BA32,oshzjjql,qqkbymwl@example.com,33991116,762,1,4,2161,Employed,Small Business Funding,Owned
+C24B8243F,hvbntjxp,ekdwrhan@example.com,33176928,289,1,2,9837,Employed,Investment,Rented
+A4029EE08,ulzfqpwd,fnpmahdc@example.com,99533570,835,9,2,2593,Employed,Home Improvement,Owned
+3C693C14F,udakhypp,qlywoeqr@example.com,10019830,136,11,3,8034,Self-employed,Education,Mortgaged
+FE08BE37C,xmaqxxyg,amqcwier@example.com,44203879,879,8,1,8302,Self-employed,Investment,Mortgaged
+FEE9A7844,kwvyobmd,aeypxpxh@example.com,34158045,468,10,1,5259,Unemployed,Small Business Funding,Rented
+8C7305AB3,vvrybsjy,aagludhn@example.com,65023303,794,9,3,6155,Self-employed,Education,Owned
+636FBAA11,kvwlqapk,whyyraoa@example.com,11571358,624,7,1,4962,Self-employed,Education,Mortgaged
+8CED097AB,rhscvlmx,lghemxmw@example.com,18088947,378,3,4,5888,Employed,Small Business Funding,Rented
+425582E9E,euytfzsr,ihzvodwr@example.com,22481348,316,3,2,5390,Employed,Investment,Owned
+065E84FEE,ogkxtzjc,fayypiey@example.com,41667038,966,2,3,7997,Self-employed,Debt Consolidation,Owned
+7610F7EED,hrqkqrsh,rpijriqr@example.com,76249864,972,5,3,8354,Unemployed,Small Business Funding,Mortgaged
+D9ACF1D97,hsnqqmrg,zjqkxdho@example.com,67882779,897,3,1,6501,Employed,Small Business Funding,Mortgaged
+B8D61490D,onwtxfru,gqknvvbd@example.com,79470461,372,6,3,2663,Self-employed,Small Business Funding,Owned
+7A2DCE429,gdkzoejp,nowjkffp@example.com,75045835,980,2,4,3132,Self-employed,Education,Owned
+B7BAE04D1,fapfrmsd,ienmabnx@example.com,25136736,161,3,1,7195,Unemployed,Home Improvement,Mortgaged
+5908109FE,vdfbwvdt,kyqcshze@example.com,55273500,695,5,1,2541,Unemployed,Debt Consolidation,Owned
+0B2189EB3,cgcdkfte,bnnuhyup@example.com,99810794,979,11,1,7433,Employed,Investment,Mortgaged
+0B1DE7130,ijehkiny,nkwzyryc@example.com,12738170,828,11,1,7093,Unemployed,Investment,Owned
+7F375444F,edeamcyi,xrujqzuj@example.com,44595886,441,1,4,7236,Self-employed,Home Improvement,Mortgaged
+B095760A0,dfmbsbga,tvlcapki@example.com,55751199,496,1,1,4974,Self-employed,Small Business Funding,Rented
+4BBD0C353,maqiqgxw,wpduxepn@example.com,81259033,798,10,3,2867,Unemployed,Debt Consolidation,Mortgaged
+18E1AF186,wcvflliu,ycohtrmj@example.com,64392626,118,9,4,9871,Unemployed,Investment,Mortgaged
+3CF172D35,wluusftg,jpzuoxjn@example.com,16936809,276,7,2,4066,Unemployed,Investment,Rented
+815C58AE3,rneafjpv,yvvbqiuz@example.com,58535827,711,1,2,2431,Unemployed,Small Business Funding,Owned
+F1EDD8E47,bslljzhu,lfuuolig@example.com,17688326,495,8,3,9852,Employed,Home Improvement,Rented
+32AA21F75,bhqwobms,pazsruzk@example.com,39723176,544,3,3,6835,Unemployed,Debt Consolidation,Mortgaged
+3A9C7154B,iurxoojh,lrelpvmf@example.com,92275852,332,8,4,7469,Employed,Home Improvement,Owned
+33D1A704A,sdrhjamd,okexaaax@example.com,90495984,175,5,2,6278,Self-employed,Home Improvement,Rented
+BFD34F3AD,avrnxxaj,cbgftenp@example.com,91030554,364,1,2,8256,Unemployed,Debt Consolidation,Owned
+C6CA360D3,muemzbey,evzsbzls@example.com,36624593,554,7,2,3206,Employed,Debt Consolidation,Owned
+65035F0EA,kcftivlw,qvnjguzf@example.com,86602798,895,5,2,4528,Unemployed,Investment,Rented
+681096A73,mtmvuhgs,qnhpqgdr@example.com,38842450,817,6,2,3169,Self-employed,Investment,Owned
+DC2BDCC6B,wlqysqxa,lkmkjqbd@example.com,10890910,834,6,1,2830,Self-employed,Debt Consolidation,Rented
+FA58497F6,qpedahdq,ekkbmvdd@example.com,35020465,483,8,3,3651,Self-employed,Education,Mortgaged
+4B0DF66C0,mndcaevw,idygwbji@example.com,42957602,663,9,1,3136,Unemployed,Investment,Owned
+F8E5A8FE6,dcxddgyc,npftghuz@example.com,72310177,950,2,2,4810,Unemployed,Education,Mortgaged
+90CA19C00,cforuupv,ojmcwoil@example.com,30998949,605,9,4,2475,Employed,Debt Consolidation,Mortgaged
+EF1667FFC,mnkoarlf,piijwgni@example.com,11490924,466,11,4,4810,Self-employed,Investment,Owned
+2892195EA,cpsmjfrq,tdpxucye@example.com,10792265,243,10,2,3326,Unemployed,Home Improvement,Rented
+8CECA237A,mkydxkdu,joylopxt@example.com,97375776,984,9,2,7066,Self-employed,Debt Consolidation,Owned
+DFE94A51C,gewcgqys,vijuqznh@example.com,28065641,168,10,4,9992,Self-employed,Small Business Funding,Mortgaged
+7DB4D417D,ikedevua,wgbpnxcn@example.com,20104512,198,10,1,3019,Employed,Education,Mortgaged
+7FD626CAA,mpalalsj,gmjlhdky@example.com,25415670,495,7,1,7237,Employed,Debt Consolidation,Rented
+136ED6279,rntliflq,pletibbc@example.com,42784846,124,1,2,3836,Employed,Debt Consolidation,Owned
+894B7D227,wfqvfdxf,oondsoue@example.com,42355394,990,7,1,6256,Employed,Investment,Mortgaged
+6F4887466,mmqqcibs,jcdjbbxr@example.com,55493071,568,10,4,4448,Self-employed,Investment,Mortgaged
+C5933E422,dbvsdzqw,yaqvkudo@example.com,27653901,583,5,1,6293,Employed,Investment,Mortgaged
+27A7CB41C,avvtwyqi,onyaezoe@example.com,34790119,664,6,2,3283,Employed,Small Business Funding,Rented
+3ADAFD994,uwdnjvuq,zlxmxlaz@example.com,26782364,250,10,4,2659,Employed,Investment,Mortgaged
+B34493FDF,nzdtohea,gvgygeba@example.com,21187203,243,7,1,7871,Employed,Debt Consolidation,Mortgaged
+055BA4D0D,bsrfrenu,irotrydq@example.com,53171186,668,5,3,7166,Self-employed,Investment,Owned
+56B23034F,tpjkiwsh,gkxajhrc@example.com,29397751,138,7,4,4010,Employed,Home Improvement,Owned
+35D1B7F86,ceeqqwvy,oskwbuwn@example.com,86785641,208,9,4,2398,Self-employed,Investment,Mortgaged
+D9A408817,psunwngl,caneyuhb@example.com,52731175,792,3,3,3733,Unemployed,Small Business Funding,Mortgaged
+1D26AC83D,vhrqtcop,mhqikkxp@example.com,15775053,141,8,3,7678,Self-employed,Home Improvement,Owned
+0A564C80A,jyhjmipk,guskzknh@example.com,86688924,285,2,4,4125,Self-employed,Debt Consolidation,Rented
+C6736FAF6,lehzhlew,eygfylng@example.com,89488494,497,11,3,4171,Employed,Debt Consolidation,Rented
+4DFB829E8,bowipojm,tinummpv@example.com,92655731,322,7,2,2074,Unemployed,Education,Rented
+0972708DD,kfsgaimy,bewnvxct@example.com,51236556,733,2,2,8280,Unemployed,Home Improvement,Rented
+393E35D1C,tgyvnwqd,xvpskqcu@example.com,82390751,232,4,2,6697,Unemployed,Education,Rented
+0F72D9870,eouvyiip,jqcdrraw@example.com,88022340,262,7,4,5471,Unemployed,Home Improvement,Rented
+70589AE3B,tsdguvtu,tsbiudoj@example.com,88689096,314,3,3,2836,Self-employed,Home Improvement,Rented
+BBA0D91C7,asruaavt,ecxblteu@example.com,45800043,832,2,3,7624,Unemployed,Small Business Funding,Rented
+F6AB2150D,ynyfzati,himehnup@example.com,93190015,334,11,1,2499,Self-employed,Education,Owned
+E2B3C0F26,jswzekwk,jnjhhrsc@example.com,78732256,942,10,1,7692,Self-employed,Small Business Funding,Rented
+F1945AD2E,nfeqlaib,pmiyetga@example.com,20907259,757,7,3,2137,Self-employed,Home Improvement,Rented
+6F3DF0420,hvgwdhxw,souvnrvo@example.com,30033233,850,1,3,4097,Unemployed,Debt Consolidation,Rented
+DE054B6A1,cxlcikby,yfjkvdax@example.com,70006589,687,8,3,7890,Employed,Home Improvement,Mortgaged
+4C29232AC,mclwsnws,gqdpnjkw@example.com,38633307,108,3,4,7068,Employed,Small Business Funding,Owned
+32024525F,pelfqiwe,juijpwad@example.com,29230171,173,2,3,7738,Unemployed,Education,Owned
+0EAD1F7FA,cjtynvey,xvnfjwrx@example.com,30479011,591,3,1,5696,Employed,Education,Owned
+759D5B86B,hvfaovfk,wbjvxwtl@example.com,52988047,352,5,4,3885,Employed,Small Business Funding,Rented
+C9A3A0F3D,safbmqij,gotrlasf@example.com,17237408,329,11,3,8397,Self-employed,Education,Rented
+D66ECCD53,nkxfuhjq,pbbuslri@example.com,24608837,618,8,1,9797,Self-employed,Investment,Mortgaged
+78FFAA79B,pyosksba,uacbphqy@example.com,63141652,273,10,4,8124,Unemployed,Debt Consolidation,Owned
+17D828B30,wgogxgps,bftqqbnk@example.com,22416920,752,7,3,4757,Unemployed,Debt Consolidation,Rented
+19E6B72A5,caegysww,iohzjcfz@example.com,76718546,267,7,3,5920,Employed,Debt Consolidation,Owned
+4AAA15D86,lfuagywg,lejmyslj@example.com,79551115,269,7,3,3900,Self-employed,Education,Mortgaged
+FA5825340,ifpgcztd,iwhfwxxd@example.com,45131174,492,8,4,4610,Unemployed,Education,Mortgaged
+A161686F1,mdngsntr,ptbgpzra@example.com,22271984,894,1,1,8900,Unemployed,Home Improvement,Mortgaged
+B9F60EDFE,ymrwsvas,pfetokuu@example.com,54737847,733,4,1,5986,Unemployed,Home Improvement,Owned
+CED0046CC,obrsxlbz,qlpmfthq@example.com,67750439,293,6,2,3449,Unemployed,Debt Consolidation,Rented
+A9EA2172E,ubxhykyc,gmxitith@example.com,80384069,616,9,3,2546,Unemployed,Investment,Rented
+E38579559,nxpozrqc,fcgbihkk@example.com,85681774,128,2,2,9469,Unemployed,Home Improvement,Mortgaged
+EB1208AD9,zwwjsitq,latuzahl@example.com,13033537,264,1,2,7017,Employed,Home Improvement,Rented
+34E6AEAC6,mcsmeslo,ilewtyxm@example.com,45502674,521,10,1,6676,Self-employed,Education,Mortgaged
+5232EE83B,grmmlbte,doweykfr@example.com,70622681,438,2,4,7468,Self-employed,Investment,Owned
+988F4E471,axsyezql,ygxwleja@example.com,19756553,747,7,4,9999,Unemployed,Debt Consolidation,Mortgaged
+A8405D4DC,oxqbjhdd,lqfzavua@example.com,87449957,595,3,1,8052,Self-employed,Home Improvement,Owned
+8238431C8,tdxuqnub,tikhiaut@example.com,59280934,464,10,4,4003,Self-employed,Investment,Mortgaged
+86A2FD82F,ymmvcgvr,tgggwrrq@example.com,37318691,932,2,2,4096,Self-employed,Investment,Rented
+8E5CF7E25,mfmkwcwa,btamikby@example.com,33951026,441,11,3,9060,Unemployed,Debt Consolidation,Rented
+64704A5F3,nskogthn,ycmjlmuo@example.com,87834744,599,7,1,9241,Unemployed,Investment,Mortgaged
+DABE74DAF,igodkglb,jtfmbbxg@example.com,57085718,756,2,3,2703,Self-employed,Investment,Rented
+D0DDB2612,khibepbu,fucftpai@example.com,10033065,610,3,4,8404,Self-employed,Investment,Rented
+4810F9EEC,iefkxsyt,yckkllvg@example.com,33185535,426,11,3,4403,Unemployed,Home Improvement,Rented
+14786C638,xmctihoz,qqhclywx@example.com,49894389,316,7,4,9749,Employed,Debt Consolidation,Owned
+C45A62808,riygghri,pkownihl@example.com,87469339,400,4,4,3625,Self-employed,Investment,Rented
+F8F205988,dioufegy,kgjhvgvn@example.com,42432372,231,1,2,5331,Employed,Investment,Owned
+023A600FF,ktxarsnt,sdowgqdk@example.com,31094482,903,5,4,6733,Self-employed,Home Improvement,Mortgaged
+D629517D4,moiizzbp,wddvjohl@example.com,69517560,169,9,2,8886,Employed,Debt Consolidation,Rented
+7173E5BDD,xwxulynn,rmkshhcb@example.com,19105258,351,8,2,9462,Employed,Education,Rented
+CEB1A878D,xqhpwfvt,bmxooocl@example.com,24869110,514,9,2,7105,Employed,Home Improvement,Rented
+D0E36541C,vtyylyqn,sxwfjxbe@example.com,96315255,886,10,1,4978,Unemployed,Debt Consolidation,Mortgaged
+336AEDA7E,bcsfrbsx,jowltoof@example.com,22730863,544,9,1,6736,Employed,Investment,Owned
+BE268FE36,bhutdkmv,blbccroc@example.com,45951758,975,7,4,4839,Employed,Debt Consolidation,Owned
+3F89D4563,iblrmtal,vshmpepe@example.com,48617301,281,4,2,5384,Employed,Debt Consolidation,Rented
+1B29539A3,cpaiixqn,hdwsxaqk@example.com,28230881,266,5,1,4659,Self-employed,Debt Consolidation,Mortgaged
+73C64F7BD,pppsmmjp,vwemefoe@example.com,34093164,190,1,2,3861,Employed,Education,Mortgaged
+425A942E4,begvxnkb,zqpigzzd@example.com,59607162,813,1,3,4856,Self-employed,Debt Consolidation,Mortgaged
+A461D3146,dqabpowp,gqhmuufj@example.com,17024516,957,3,3,7301,Employed,Education,Mortgaged
+B1DFB9165,buobuhwn,jsfwikls@example.com,30537492,630,8,3,2685,Employed,Investment,Mortgaged
+DD4322063,qzztdnex,ndhiahaf@example.com,20931104,138,2,4,7947,Unemployed,Education,Owned
+924876AB1,jpmuedcm,fkxxjnms@example.com,35915577,225,4,2,9531,Self-employed,Investment,Owned
+39F5671A4,koufuwsk,sxkapmtk@example.com,75910596,550,2,3,6283,Employed,Investment,Owned
+CBC2B8A2F,geuvjhwo,xrelpiqr@example.com,87185723,272,5,1,9736,Self-employed,Education,Rented
+7CD01D314,rpgbwndj,kkjrbasd@example.com,19960521,752,9,3,9710,Self-employed,Home Improvement,Mortgaged
+601B72E44,jzoxwysx,uccphkyg@example.com,23479825,853,1,3,3619,Unemployed,Small Business Funding,Rented
+ECEEF596F,itoorlyd,vzcnhspa@example.com,75313631,319,5,3,7783,Unemployed,Debt Consolidation,Mortgaged
+DD0E9290B,phxhdrud,xmjxzsan@example.com,31110634,737,9,4,7080,Unemployed,Small Business Funding,Owned
+EB7508953,rksenzuv,vatzkkjz@example.com,77217395,157,1,1,6643,Unemployed,Debt Consolidation,Rented
+853071E92,dlydchqw,metcjbvs@example.com,26430822,759,9,2,8868,Unemployed,Debt Consolidation,Owned
+4552ED598,sytwipyp,cvkadejc@example.com,19096339,575,8,1,9069,Unemployed,Investment,Mortgaged
+EC78F5249,mhpkwvbw,jqrbcsdj@example.com,62354150,555,4,2,3431,Unemployed,Debt Consolidation,Mortgaged
+CDAD03562,brysdqza,huopwned@example.com,82004700,928,11,4,2875,Unemployed,Debt Consolidation,Mortgaged
+22A11EDCF,flwaffgy,mqsuedfc@example.com,19745079,994,10,4,6713,Employed,Education,Owned
+FDCC8CCEC,cwueyuck,cuxnyzms@example.com,86675161,460,5,4,4461,Self-employed,Small Business Funding,Mortgaged
+AE21761D6,aeiihpdo,stfvwsop@example.com,43281752,100,5,4,3365,Unemployed,Education,Owned
+49D3C1B2A,mpyxjzvz,opryewvb@example.com,92581641,486,11,2,3243,Unemployed,Debt Consolidation,Rented
+CD0828802,alpoydun,bvtcblvs@example.com,30988271,447,6,3,6998,Self-employed,Investment,Mortgaged
+3192F84C1,hscnaqzl,kvhinjmh@example.com,17304976,289,7,2,2162,Employed,Education,Mortgaged
+380C2986B,qagmmhiu,vulmdlkh@example.com,62339627,604,8,1,3974,Self-employed,Education,Mortgaged
+97BEF2149,uufaiwwr,osthacea@example.com,60529509,290,8,4,5291,Self-employed,Home Improvement,Rented
+488204CF1,yhxqdifd,ftticrhc@example.com,66285289,607,11,4,2269,Unemployed,Debt Consolidation,Mortgaged
+6B4FEC631,eaxyvnni,yqbaobol@example.com,96560950,468,2,1,2631,Self-employed,Investment,Owned
+A42350906,fjpbtrwg,tfaqxhtd@example.com,51077420,508,9,2,2905,Self-employed,Education,Owned
+9D88D2442,kwhjkofu,xqfazkkq@example.com,96633193,923,7,3,5471,Unemployed,Education,Mortgaged
+68CBFF4D3,qlkvmhxa,lfvpswto@example.com,33326439,216,4,3,5253,Unemployed,Investment,Mortgaged
+979FFDB06,vpusldhb,ytexeatz@example.com,32693063,233,4,1,4014,Unemployed,Debt Consolidation,Rented
+4CA100E6E,ngeiyvnl,rwjggksw@example.com,33979049,157,11,3,3641,Unemployed,Home Improvement,Rented
+463C23DAC,bqkpicks,rzpuoowh@example.com,16124186,655,8,2,9896,Self-employed,Education,Rented
+72843CC88,kkxukvon,sgktkedg@example.com,81787150,784,4,2,2204,Self-employed,Home Improvement,Mortgaged
+BF7BDEED8,tnzdsqal,vixjtfkj@example.com,29046620,771,6,1,2581,Employed,Small Business Funding,Rented
+F7FB23865,vdntzfgz,yeyhmxvr@example.com,90123448,272,5,2,7675,Employed,Debt Consolidation,Rented
+F85499015,jfgapvqq,oopypurq@example.com,44409859,928,3,4,2840,Self-employed,Small Business Funding,Owned
+E0516F18D,zeoffjig,bvrnivsk@example.com,93542843,914,10,1,7932,Employed,Small Business Funding,Rented
+4E2406386,sqqpcyfw,hdxstwdx@example.com,34354535,248,11,2,7347,Self-employed,Small Business Funding,Owned
+1583EC29B,zrixotvr,uimynmvv@example.com,78603881,179,2,1,3719,Employed,Debt Consolidation,Owned
+823F21759,dxprzsqf,dimzberl@example.com,32918308,985,9,3,7738,Unemployed,Debt Consolidation,Rented
+3E2BEAB65,kpnlfywz,ggmusujf@example.com,25338443,312,10,2,4643,Employed,Investment,Owned
+74CFBFDFA,ismpuqps,iuyudwwh@example.com,35732479,302,9,4,4297,Unemployed,Home Improvement,Mortgaged
+C5A80DBB9,ahesknps,wriolhss@example.com,19476586,863,1,2,2874,Unemployed,Home Improvement,Mortgaged
+98305C1D9,sgdxcjjh,yrngzugy@example.com,85248554,328,10,1,7560,Unemployed,Investment,Rented
+6231EA1DA,zrvnktig,kzrpnvme@example.com,79104768,775,3,1,9700,Unemployed,Investment,Mortgaged
+8920B6BF1,ppjtehxv,opiyqqyi@example.com,31215854,326,8,2,8339,Employed,Small Business Funding,Owned
+8ED611C3C,xtagfwyb,bgayxsec@example.com,15493844,758,6,4,2689,Self-employed,Investment,Mortgaged
+D57A43659,xonyfuir,makfmmva@example.com,12581398,631,5,4,6000,Unemployed,Education,Rented
+66F37AE47,zqwhthwu,pnparoyn@example.com,77678093,540,5,4,8106,Employed,Home Improvement,Rented
+C55A15CDB,qgzriuhy,hdlepuje@example.com,55044817,501,6,1,9686,Unemployed,Investment,Owned
+48397C067,pxrfakmy,xcyywlvi@example.com,26950651,146,7,2,5141,Employed,Education,Rented
+7C78A6EC7,czhhpyki,dtoelfbt@example.com,70424570,332,1,3,8782,Employed,Education,Mortgaged
+15AD27D00,pljukknh,clvhgcbl@example.com,23060477,404,9,1,3422,Employed,Education,Rented
+FD72CE036,irxndvvh,whefuyee@example.com,92595848,625,3,4,8097,Self-employed,Education,Owned
+D514DCE45,zzutzapg,rlklvjnx@example.com,39157145,242,4,2,2671,Employed,Small Business Funding,Rented
+5896C55E5,joinzvxm,dhvwkghk@example.com,10071684,514,10,4,9927,Employed,Education,Mortgaged
+D69577A1F,burdkciv,qecgjixj@example.com,70707112,612,1,3,9370,Self-employed,Small Business Funding,Owned
+66EDDFFE4,ucykvhsq,xkxovasf@example.com,18812380,472,11,4,3171,Self-employed,Small Business Funding,Mortgaged
+956FD4C75,adwswpzb,qaixwmqc@example.com,81486172,665,10,4,7591,Employed,Education,Owned
+068F6DA15,dncgclmc,bwifzxgd@example.com,84938419,985,3,3,5726,Self-employed,Home Improvement,Rented
+31B16FECC,wnovdhvj,yhjeeldc@example.com,56558748,358,2,2,2943,Unemployed,Education,Owned
+48F3F94D5,ibwznryx,crhvfnet@example.com,47863861,755,2,1,8342,Unemployed,Education,Owned
+CC49E2289,jxxevfth,nkhlueoa@example.com,81530289,570,1,2,3449,Self-employed,Education,Rented
+B483946D2,ulshymwv,ggixdbgv@example.com,15466294,111,8,3,5737,Self-employed,Home Improvement,Mortgaged
+07B00C9D0,xrwfgbyh,tfakhivi@example.com,87850200,429,3,4,4539,Employed,Debt Consolidation,Rented
+168ADC048,szuvsxmw,jxidodxz@example.com,27042156,835,3,2,5959,Self-employed,Debt Consolidation,Owned
+609B7F9B3,bqjjskda,zmsjjbsp@example.com,25171661,883,6,1,6991,Employed,Small Business Funding,Rented
+EBBBDC15A,qplofala,bfxvsjne@example.com,51232134,457,8,3,8285,Unemployed,Small Business Funding,Owned
+52F77394D,ecefzuid,hppnlpxn@example.com,97547368,507,9,2,7432,Self-employed,Home Improvement,Rented
+819D2D07A,nhwqhkry,pgkronop@example.com,60068886,767,9,1,6260,Employed,Investment,Rented
+333912BFC,helozoqm,rlachmap@example.com,81048572,472,4,3,4361,Employed,Debt Consolidation,Mortgaged
+D2485EDDE,jrdemabe,xepmhkxe@example.com,88308964,107,5,1,8164,Unemployed,Small Business Funding,Owned
+5DE60D537,ebfxxeiy,utbljygo@example.com,17035143,221,2,3,7201,Self-employed,Debt Consolidation,Mortgaged
+459A02CF7,wacyrthd,udcdirzq@example.com,48460711,447,11,4,5652,Unemployed,Home Improvement,Owned
+7C513A71E,amothwhi,hzmxdmmy@example.com,93037503,775,9,2,9298,Employed,Home Improvement,Rented
+85E1A68D1,uuakvbtr,xiqtrckd@example.com,51896624,189,8,1,5670,Employed,Investment,Owned
+1B63D9D64,qnroyhcw,hwkfvjiu@example.com,68166401,747,3,3,3753,Self-employed,Investment,Mortgaged
+24AC0ABA4,obijtshz,odvetrlp@example.com,11616972,797,11,1,9127,Employed,Home Improvement,Mortgaged
+BC97B1EFF,djutckdi,crcsfboo@example.com,18944015,415,9,1,4352,Self-employed,Small Business Funding,Mortgaged
+A16E01522,sadwznkg,aflosodf@example.com,24746915,277,3,2,3938,Unemployed,Debt Consolidation,Owned
+DB1B11433,dzixzgai,fdbwwnic@example.com,66727977,639,9,4,2370,Self-employed,Education,Mortgaged
+75CD50C55,gqxrbwzm,uxggnpev@example.com,35792524,831,2,1,7976,Self-employed,Investment,Mortgaged
+7E6EC82D4,mtxwkuxm,vbdtnfla@example.com,26526048,968,10,3,6948,Employed,Education,Mortgaged
+02DA365A2,aojxxrdv,bloevfhm@example.com,59517643,140,9,3,6479,Employed,Small Business Funding,Rented
+71CA40F19,koynkcck,qapcvris@example.com,13020203,839,8,4,3931,Self-employed,Investment,Rented
+EA90056B1,fvyqockm,cpujpfhj@example.com,89548171,803,9,3,8588,Employed,Education,Owned
+E042D06FD,foqsxiza,roelegfw@example.com,48409473,601,5,4,2424,Employed,Small Business Funding,Owned
+1EA522343,ceoztnec,cuzescby@example.com,26691398,244,11,3,8304,Employed,Debt Consolidation,Mortgaged
+302C15D16,hozoucnl,zhujtrgm@example.com,78650211,300,11,2,9345,Self-employed,Small Business Funding,Rented
+CFF949E2F,lwqryzgh,rewrnjpz@example.com,70792822,823,2,1,6724,Employed,Investment,Mortgaged
+1B35F3D3A,rntgngdc,ilhkzvlh@example.com,79632063,560,8,2,9875,Self-employed,Home Improvement,Mortgaged
+77CA8C46D,pxunvhpa,sdgigguf@example.com,61797390,831,6,1,2894,Employed,Debt Consolidation,Rented
+3474A8964,uylxglrz,hvcxihms@example.com,51333581,851,8,1,8633,Unemployed,Education,Rented
+9FEA466DD,xiouwcpx,npgeuoch@example.com,90715078,657,11,1,9160,Employed,Investment,Rented
+75C08B4DD,oytbothg,ardarmja@example.com,87883750,646,5,2,8470,Employed,Home Improvement,Owned
+D1292B554,acellpnn,wsdxrbld@example.com,11702731,352,10,1,2597,Self-employed,Small Business Funding,Owned
+4F83EFFC4,hyuubrfb,gfhqsjfi@example.com,79106437,489,2,2,5062,Self-employed,Home Improvement,Mortgaged
+9117D5399,efrswlkn,hxboqadt@example.com,11173522,693,6,4,4336,Employed,Investment,Owned
+85F54A056,czlqyypn,vfswlldh@example.com,40288609,982,5,3,6688,Unemployed,Investment,Rented
+EA766B881,wkjtbbxe,fcrswgnk@example.com,65552169,355,5,3,3687,Employed,Home Improvement,Rented
+964D2F3EE,stklpzzp,qgpxvhxm@example.com,22314159,808,1,1,9740,Employed,Small Business Funding,Owned
+786CDB096,yqiazmal,hjihqpfu@example.com,39011276,914,2,2,2572,Unemployed,Home Improvement,Mortgaged

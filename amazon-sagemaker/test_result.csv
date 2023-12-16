@@ -1,0 +1,901 @@
+loan_id,loan_amount,loan_term,credit_score,income,employment_status,purpose_loan,property_ownership,approval_status
+BE37A1EDD,126,4,3,8230,Unemployed,Debt Consolidation,Owned,0
+1FB3A865E,472,7,4,3674,Self-employed,Debt Consolidation,Rented,0
+7BEFDE824,325,4,4,4148,Self-employed,Investment,Owned,0
+2C962B05B,270,4,1,8396,Self-employed,Home Improvement,Rented,0
+D66ECCD53,618,8,1,9797,Self-employed,Investment,Mortgaged,0
+F6AB2150D,334,11,1,2499,Self-employed,Education,Owned,1
+59E3D08C4,373,3,1,4661,Unemployed,Education,Owned,1
+1EA522343,244,11,3,8304,Employed,Debt Consolidation,Mortgaged,1
+0CB93E3BF,655,1,1,3679,Employed,Debt Consolidation,Rented,1
+B311905E5,489,2,2,4102,Self-employed,Small Business Funding,Owned,1
+63299F615,513,3,4,9843,Self-employed,Small Business Funding,Mortgaged,1
+746883170,926,4,4,5201,Self-employed,Small Business Funding,Rented,1
+C91181942,917,7,4,2651,Self-employed,Investment,Owned,0
+283FB1087,919,3,3,8548,Employed,Debt Consolidation,Mortgaged,1
+74B8E7DFD,655,1,2,2697,Self-employed,Debt Consolidation,Owned,0
+BF7BDEED8,771,6,1,2581,Employed,Small Business Funding,Rented,0
+B483946D2,111,8,3,5737,Self-employed,Home Improvement,Mortgaged,1
+DC70B1C8D,324,5,4,9340,Unemployed,Small Business Funding,Mortgaged,0
+95E04707C,739,6,3,4964,Self-employed,Home Improvement,Owned,0
+65035F0EA,895,5,2,4528,Unemployed,Investment,Rented,1
+ACC05518C,971,2,2,2359,Self-employed,Education,Owned,1
+0802A99BD,674,1,3,8267,Self-employed,Home Improvement,Rented,1
+B1A1D2D7F,781,3,4,5359,Employed,Debt Consolidation,Rented,1
+A53881AEB,216,2,2,9003,Unemployed,Small Business Funding,Mortgaged,0
+1B63D9D64,747,3,3,3753,Self-employed,Investment,Mortgaged,0
+FA5825340,492,8,4,4610,Unemployed,Education,Mortgaged,0
+4E9D1BF6F,781,3,2,8524,Self-employed,Investment,Owned,0
+0C7553897,561,4,4,3540,Unemployed,Investment,Owned,1
+04B3F1256,983,7,4,9230,Employed,Education,Mortgaged,0
+DBF1F9F45,185,8,3,8479,Employed,Debt Consolidation,Mortgaged,0
+EBBBDC15A,457,8,3,8285,Unemployed,Small Business Funding,Owned,0
+71F614D30,234,11,1,3689,Employed,Debt Consolidation,Rented,1
+B2FBC6907,212,1,2,5976,Self-employed,Investment,Mortgaged,1
+EC7C7D634,430,2,3,5602,Unemployed,Investment,Rented,1
+DC1C0CA23,735,1,4,9527,Unemployed,Education,Rented,1
+427064057,948,11,3,9909,Self-employed,Education,Mortgaged,0
+467DB151C,290,10,2,4567,Self-employed,Investment,Owned,1
+CC56732B9,669,1,4,4461,Unemployed,Home Improvement,Rented,1
+CC7415439,886,4,4,6351,Unemployed,Debt Consolidation,Owned,1
+C38C44CF4,352,11,4,8679,Employed,Education,Owned,0
+068F6DA15,985,3,3,5726,Self-employed,Home Improvement,Rented,1
+4969AA724,324,11,2,2882,Employed,Home Improvement,Mortgaged,1
+BA50451B0,316,7,4,9121,Unemployed,Debt Consolidation,Mortgaged,0
+9162A0AB4,780,8,1,9297,Employed,Debt Consolidation,Mortgaged,0
+5B61B36FA,980,1,2,4385,Employed,Investment,Rented,1
+87A135456,758,7,3,4355,Self-employed,Home Improvement,Rented,0
+4E1E77C1E,211,6,2,5493,Unemployed,Education,Rented,1
+9AA79EFD7,479,2,1,9604,Self-employed,Investment,Owned,0
+BEF073B9A,559,5,1,7189,Self-employed,Investment,Mortgaged,1
+A9F518A19,921,1,3,7519,Self-employed,Investment,Mortgaged,1
+94C70FC9C,797,6,3,6941,Unemployed,Home Improvement,Owned,1
+F60332E42,260,5,4,2571,Employed,Debt Consolidation,Mortgaged,0
+DE054B6A1,687,8,3,7890,Employed,Home Improvement,Mortgaged,1
+52F77394D,507,9,2,7432,Self-employed,Home Improvement,Rented,0
+936A70B6E,978,10,2,6182,Unemployed,Debt Consolidation,Owned,0
+F371E376B,246,3,2,7302,Self-employed,Investment,Owned,0
+48397C067,146,7,2,5141,Employed,Education,Rented,1
+708F814B2,708,5,1,5271,Employed,Investment,Mortgaged,1
+EF1667FFC,466,11,4,4810,Self-employed,Investment,Owned,1
+815C58AE3,711,1,2,2431,Unemployed,Small Business Funding,Owned,0
+60E0BBF18,146,7,3,7230,Unemployed,Home Improvement,Rented,0
+D0E36541C,886,10,1,4978,Unemployed,Debt Consolidation,Mortgaged,0
+3C693C14F,136,11,3,8034,Self-employed,Education,Mortgaged,1
+D38C9BE27,552,10,4,5456,Unemployed,Small Business Funding,Mortgaged,1
+2FEC0B8F3,137,10,3,2855,Self-employed,Investment,Rented,1
+69A8BAEB4,878,2,3,9993,Self-employed,Education,Owned,0
+8231D0F5C,503,4,4,9961,Employed,Education,Mortgaged,1
+CE952C94F,519,3,2,4630,Employed,Small Business Funding,Rented,1
+5DB9A144F,769,2,4,2646,Unemployed,Investment,Rented,1
+691187C08,725,8,1,3080,Employed,Home Improvement,Rented,0
+62D3C270D,791,3,2,7636,Employed,Debt Consolidation,Owned,1
+8AE7DF0BD,226,7,1,5537,Unemployed,Small Business Funding,Rented,1
+E49ECBAEE,781,10,1,4475,Self-employed,Debt Consolidation,Rented,0
+246B07734,610,5,3,6605,Self-employed,Investment,Mortgaged,1
+F01A29288,230,11,4,8764,Employed,Small Business Funding,Mortgaged,0
+00BD21D9E,997,5,2,3929,Unemployed,Home Improvement,Mortgaged,1
+71CA40F19,839,8,4,3931,Self-employed,Investment,Rented,0
+C88B2EC39,680,6,4,2514,Self-employed,Debt Consolidation,Rented,0
+3F3A24A5A,101,1,4,7218,Employed,Small Business Funding,Mortgaged,0
+C882E64BA,370,8,2,8780,Employed,Home Improvement,Mortgaged,0
+E040CFDBA,121,6,4,5046,Self-employed,Debt Consolidation,Owned,0
+F7FC9A911,785,11,4,7016,Employed,Debt Consolidation,Rented,1
+F7875A980,879,9,3,6406,Unemployed,Debt Consolidation,Rented,0
+CF1E2263A,555,3,3,5603,Unemployed,Education,Owned,1
+1022AEC23,573,8,3,8272,Unemployed,Small Business Funding,Mortgaged,0
+B1E553810,719,7,1,7341,Self-employed,Education,Mortgaged,1
+BC4047F31,598,8,2,3013,Self-employed,Investment,Rented,0
+7E2351F34,647,9,1,5959,Employed,Investment,Mortgaged,1
+E1B10B105,868,8,3,3826,Employed,Investment,Rented,0
+8018E5A20,676,5,1,7110,Self-employed,Debt Consolidation,Owned,1
+CFE22953E,912,8,4,9717,Self-employed,Education,Owned,0
+9315F3498,576,8,4,3931,Unemployed,Small Business Funding,Rented,0
+D2DC3E6CD,212,4,4,7175,Unemployed,Home Improvement,Mortgaged,0
+211B1DFDF,546,5,2,4743,Employed,Debt Consolidation,Mortgaged,0
+DD2CAD745,937,10,2,9602,Employed,Education,Mortgaged,0
+29E7A1A2D,762,3,2,2962,Unemployed,Education,Owned,1
+787318316,644,9,4,9544,Self-employed,Education,Owned,1
+B753D6CAA,982,6,1,8869,Self-employed,Debt Consolidation,Rented,0
+EA0E23943,971,2,3,4493,Unemployed,Debt Consolidation,Mortgaged,1
+388043719,287,11,2,3766,Unemployed,Small Business Funding,Rented,1
+96DD9EC80,379,8,2,8683,Employed,Education,Owned,1
+77CA8C46D,831,6,1,2894,Employed,Debt Consolidation,Rented,0
+285E482D7,487,11,2,8813,Unemployed,Debt Consolidation,Rented,1
+F06569273,640,10,1,8965,Employed,Small Business Funding,Rented,0
+0E93BB986,901,6,4,5967,Employed,Small Business Funding,Mortgaged,1
+979FFDB06,233,4,1,4014,Unemployed,Debt Consolidation,Rented,0
+82CDFB4A0,763,6,3,3190,Unemployed,Debt Consolidation,Rented,0
+3360902B2,588,11,2,4293,Unemployed,Education,Owned,1
+397120572,541,8,4,8488,Self-employed,Small Business Funding,Mortgaged,1
+D48C2D50B,443,2,1,9971,Employed,Home Improvement,Owned,0
+71ECB50DA,437,9,4,4708,Unemployed,Education,Owned,0
+0C485DC0B,388,6,4,8019,Employed,Education,Owned,0
+CBC2B8A2F,272,5,1,9736,Self-employed,Education,Rented,0
+A6DFCF9E0,152,7,3,8265,Self-employed,Home Improvement,Mortgaged,0
+9D88D2442,923,7,3,5471,Unemployed,Education,Mortgaged,0
+78FFAA79B,273,10,4,8124,Unemployed,Debt Consolidation,Owned,0
+ED8D942D4,665,5,1,3179,Self-employed,Home Improvement,Owned,1
+5777E38EB,257,10,3,3950,Unemployed,Small Business Funding,Rented,1
+92142BC79,737,6,3,2399,Employed,Home Improvement,Rented,0
+CDAD03562,928,11,4,2875,Unemployed,Debt Consolidation,Mortgaged,1
+E8D96AF50,560,3,2,7524,Self-employed,Small Business Funding,Owned,1
+8431B0336,873,7,4,6875,Self-employed,Home Improvement,Owned,1
+D0EF5F63B,319,6,1,7448,Employed,Education,Rented,0
+B2307C726,214,7,1,8345,Unemployed,Small Business Funding,Mortgaged,1
+75C08B4DD,646,5,2,8470,Employed,Home Improvement,Owned,1
+819D2D07A,767,9,1,6260,Employed,Investment,Rented,1
+24AC0ABA4,797,11,1,9127,Employed,Home Improvement,Mortgaged,0
+875FAA033,737,1,1,3486,Employed,Investment,Mortgaged,1
+98305C1D9,328,10,1,7560,Unemployed,Investment,Rented,1
+F85499015,928,3,4,2840,Self-employed,Small Business Funding,Owned,0
+2DEF25FE3,833,6,2,8097,Self-employed,Education,Owned,0
+9404E9360,584,10,3,9935,Unemployed,Investment,Mortgaged,0
+8A6B4252D,758,3,4,2407,Self-employed,Debt Consolidation,Rented,0
+48E278304,472,5,1,3125,Employed,Debt Consolidation,Mortgaged,0
+463C23DAC,655,8,2,9896,Self-employed,Education,Rented,0
+94BBE3D2B,491,10,2,4279,Self-employed,Education,Rented,1
+881FD7E1F,189,7,1,7588,Self-employed,Education,Owned,1
+F43D60336,960,10,4,9541,Self-employed,Education,Rented,0
+BBF8E969B,253,4,1,4460,Unemployed,Small Business Funding,Owned,0
+C04E4A9A6,966,8,3,5468,Unemployed,Education,Rented,0
+D9ACF1D97,897,3,1,6501,Employed,Small Business Funding,Mortgaged,1
+DABE74DAF,756,2,3,2703,Self-employed,Investment,Rented,0
+988F4E471,747,7,4,9999,Unemployed,Debt Consolidation,Mortgaged,1
+46568CEA9,740,9,4,9638,Employed,Debt Consolidation,Rented,1
+21AB44775,376,3,3,9177,Employed,Debt Consolidation,Mortgaged,1
+70589AE3B,314,3,3,2836,Self-employed,Home Improvement,Rented,0
+CEB1A878D,514,9,2,7105,Employed,Home Improvement,Rented,1
+91CC0AA5C,611,7,4,2147,Unemployed,Home Improvement,Rented,1
+31EF28355,453,8,4,2935,Self-employed,Home Improvement,Owned,0
+0972708DD,733,2,2,8280,Unemployed,Home Improvement,Rented,1
+964D2F3EE,808,1,1,9740,Employed,Small Business Funding,Owned,0
+4C29232AC,108,3,4,7068,Employed,Small Business Funding,Owned,0
+609B7F9B3,883,6,1,6991,Employed,Small Business Funding,Rented,1
+94969D713,929,2,4,3953,Self-employed,Debt Consolidation,Owned,1
+100DAAA61,956,3,3,4785,Employed,Small Business Funding,Owned,1
+9836CA46A,322,5,4,8374,Employed,Debt Consolidation,Rented,0
+63D09F718,249,3,2,4837,Employed,Debt Consolidation,Owned,1
+8CED097AB,378,3,4,5888,Employed,Small Business Funding,Rented,1
+66EDDFFE4,472,11,4,3171,Self-employed,Small Business Funding,Mortgaged,1
+8841FCA05,484,3,1,8406,Self-employed,Debt Consolidation,Owned,0
+167769558,999,7,4,7907,Self-employed,Small Business Funding,Owned,0
+D7126F932,346,5,2,4066,Employed,Debt Consolidation,Rented,0
+F7EE26B0A,254,8,2,3827,Employed,Small Business Funding,Mortgaged,1
+1B5E188B9,279,2,1,8445,Self-employed,Investment,Mortgaged,0
+8238431C8,464,10,4,4003,Self-employed,Investment,Mortgaged,1
+C6736FAF6,497,11,3,4171,Employed,Debt Consolidation,Rented,1
+302C15D16,300,11,2,9345,Self-employed,Small Business Funding,Rented,1
+68DE03A2B,346,8,2,4148,Employed,Debt Consolidation,Owned,1
+FA2CDF10D,957,10,1,9693,Employed,Home Improvement,Mortgaged,0
+B1FA8B9D4,142,11,4,3124,Self-employed,Debt Consolidation,Rented,1
+3C7381473,935,2,4,3382,Unemployed,Investment,Owned,1
+E48160E0C,610,10,3,4564,Unemployed,Debt Consolidation,Rented,1
+681096A73,817,6,2,3169,Self-employed,Investment,Owned,0
+F20156CB2,918,6,1,4719,Unemployed,Small Business Funding,Rented,1
+23E7A7498,956,7,2,8704,Employed,Small Business Funding,Owned,0
+AACF6EF84,919,9,4,4708,Employed,Small Business Funding,Owned,0
+1B29539A3,266,5,1,4659,Self-employed,Debt Consolidation,Mortgaged,0
+380C2986B,604,8,1,3974,Self-employed,Education,Mortgaged,0
+628D9FBDD,413,4,2,6083,Self-employed,Investment,Rented,1
+B3C351060,464,2,1,8610,Employed,Debt Consolidation,Owned,0
+EF6F8ED96,425,3,1,4139,Employed,Home Improvement,Rented,1
+D2BC20C0D,271,5,2,6327,Employed,Education,Rented,0
+1AFA3DD5F,497,11,1,3120,Employed,Debt Consolidation,Rented,1
+0B0581738,393,11,1,6517,Employed,Investment,Rented,1
+055BA4D0D,668,5,3,7166,Self-employed,Investment,Owned,1
+C5A80DBB9,863,1,2,2874,Unemployed,Home Improvement,Mortgaged,1
+48F3F94D5,755,2,1,8342,Unemployed,Education,Owned,0
+336AEDA7E,544,9,1,6736,Employed,Investment,Owned,1
+15AD27D00,404,9,1,3422,Employed,Education,Rented,1
+A266BE21D,978,11,1,7203,Self-employed,Home Improvement,Mortgaged,0
+DB6D1DB8C,661,2,2,4665,Unemployed,Investment,Owned,1
+64704A5F3,599,7,1,9241,Unemployed,Investment,Mortgaged,0
+3A8DCB6EF,789,11,3,7752,Unemployed,Small Business Funding,Mortgaged,0
+7946C135B,152,8,3,2608,Unemployed,Small Business Funding,Owned,1
+5E5B0F819,198,1,1,6494,Employed,Investment,Rented,0
+D2837E11B,301,4,2,2236,Employed,Debt Consolidation,Owned,0
+8E1DE72A1,445,1,3,8636,Self-employed,Home Improvement,Owned,1
+0E9CD6146,228,10,4,6576,Unemployed,Debt Consolidation,Owned,0
+023A600FF,903,5,4,6733,Self-employed,Home Improvement,Mortgaged,1
+BDD507763,755,5,1,9805,Self-employed,Small Business Funding,Mortgaged,0
+09A1749B8,134,2,1,3016,Self-employed,Debt Consolidation,Rented,1
+1E08E7DAB,497,3,4,9629,Self-employed,Education,Owned,1
+FBD1BC1FE,404,7,1,7844,Self-employed,Small Business Funding,Owned,1
+BFD34F3AD,364,1,2,8256,Unemployed,Debt Consolidation,Owned,0
+7C78A6EC7,332,1,3,8782,Employed,Education,Mortgaged,1
+AA55EDB8B,558,1,1,7699,Employed,Small Business Funding,Rented,1
+B877337D3,758,4,1,2922,Unemployed,Small Business Funding,Owned,1
+8E5CF7E25,441,11,3,9060,Unemployed,Debt Consolidation,Rented,0
+93D0510B0,382,7,3,9967,Unemployed,Small Business Funding,Owned,0
+68DFAD483,227,10,1,7087,Self-employed,Education,Mortgaged,1
+5AC15406C,382,11,1,8592,Employed,Investment,Mortgaged,1
+89B6C99E0,819,2,1,9800,Employed,Investment,Owned,0
+18E1AF186,118,9,4,9871,Unemployed,Investment,Mortgaged,0
+67CF1B516,791,7,2,5243,Employed,Debt Consolidation,Owned,0
+7F782199E,711,9,4,2448,Unemployed,Debt Consolidation,Owned,1
+8D1E60F14,115,9,3,4547,Unemployed,Education,Owned,1
+C69B5BAF9,260,1,1,3914,Unemployed,Small Business Funding,Rented,1
+BBC286AA6,982,11,1,2522,Unemployed,Investment,Owned,0
+9FBB28DA5,117,11,2,8511,Unemployed,Home Improvement,Owned,1
+FEBD0524E,148,11,4,3668,Unemployed,Small Business Funding,Mortgaged,1
+FE08BE37C,879,8,1,8302,Self-employed,Investment,Mortgaged,0
+07B00C9D0,429,3,4,4539,Employed,Debt Consolidation,Rented,1
+786CDB096,914,2,2,2572,Unemployed,Home Improvement,Mortgaged,1
+636FBAA11,624,7,1,4962,Self-employed,Education,Mortgaged,1
+26DD138B7,801,2,1,7367,Self-employed,Home Improvement,Rented,1
+7B4A98115,445,6,4,6330,Unemployed,Education,Owned,0
+3F89D4563,281,4,2,5384,Employed,Debt Consolidation,Rented,1
+D57A43659,631,5,4,6000,Unemployed,Education,Rented,1
+452AAC63E,781,10,4,2369,Employed,Debt Consolidation,Rented,1
+2CAD73100,753,3,3,7345,Employed,Education,Owned,1
+DCCC2E977,332,6,3,6798,Unemployed,Investment,Rented,0
+5EA760A1C,559,8,4,6026,Self-employed,Small Business Funding,Owned,0
+3192F84C1,289,7,2,2162,Employed,Education,Mortgaged,1
+FEDC76A4A,415,1,2,4401,Employed,Home Improvement,Owned,1
+F1D30AAF1,479,6,2,6895,Unemployed,Home Improvement,Rented,0
+01D358027,592,8,2,7280,Unemployed,Education,Rented,1
+F39289B73,351,5,4,5943,Employed,Investment,Mortgaged,0
+694B9F35D,939,10,1,9633,Unemployed,Home Improvement,Owned,0
+8F27D73A1,127,4,4,9045,Employed,Small Business Funding,Mortgaged,0
+72843CC88,784,4,2,2204,Self-employed,Home Improvement,Mortgaged,0
+490FC53B3,247,5,2,6481,Employed,Debt Consolidation,Rented,1
+D0FAF91E8,712,1,4,5988,Unemployed,Education,Rented,1
+3553AFEA4,478,5,2,4496,Unemployed,Education,Rented,0
+C330A79AE,707,1,2,8610,Self-employed,Home Improvement,Mortgaged,0
+37F0E963B,506,11,3,4190,Employed,Small Business Funding,Owned,1
+B4CF2883A,848,11,2,2285,Self-employed,Small Business Funding,Rented,0
+08593832E,340,7,3,4978,Employed,Education,Mortgaged,0
+2EF8DFED7,894,3,1,5138,Self-employed,Debt Consolidation,Rented,1
+1D26AC83D,141,8,3,7678,Self-employed,Home Improvement,Owned,0
+E04BA6DEF,848,4,3,3985,Unemployed,Education,Mortgaged,0
+566F3B4CB,445,9,3,9431,Self-employed,Small Business Funding,Owned,0
+2901D54BC,492,7,1,5919,Self-employed,Debt Consolidation,Owned,0
+FC7264F7B,591,9,3,6448,Employed,Debt Consolidation,Mortgaged,0
+B1DFB9165,630,8,3,2685,Employed,Investment,Mortgaged,0
+9359403AF,934,10,4,9902,Employed,Home Improvement,Mortgaged,0
+FF37418FE,555,1,2,6725,Unemployed,Education,Rented,1
+55CA60EA4,500,5,3,2714,Self-employed,Debt Consolidation,Rented,0
+DBCBFABA5,900,2,3,8172,Employed,Home Improvement,Mortgaged,1
+300838E05,191,5,4,5619,Unemployed,Home Improvement,Owned,0
+68B196A53,605,1,2,4421,Unemployed,Debt Consolidation,Owned,1
+2596E9E4C,604,2,2,4428,Self-employed,Home Improvement,Owned,1
+14786C638,316,7,4,9749,Employed,Debt Consolidation,Owned,0
+24E5BDEDF,763,11,1,6349,Unemployed,Home Improvement,Owned,1
+4E86C6ECD,997,7,1,5883,Self-employed,Debt Consolidation,Rented,0
+D0034B0C5,275,1,1,6214,Self-employed,Education,Rented,0
+F6055C726,842,10,3,6225,Employed,Small Business Funding,Mortgaged,0
+1ABD29A1C,445,9,2,5716,Unemployed,Small Business Funding,Rented,1
+01A9F3D0F,291,6,2,5088,Unemployed,Small Business Funding,Mortgaged,0
+A3FE281CD,541,9,3,5137,Self-employed,Debt Consolidation,Owned,1
+6BBE370AA,198,5,4,8697,Unemployed,Education,Rented,0
+FDCC8CCEC,460,5,4,4461,Self-employed,Small Business Funding,Mortgaged,0
+469F8DB63,195,9,3,4813,Employed,Debt Consolidation,Mortgaged,1
+3474A8964,851,8,1,8633,Unemployed,Education,Rented,0
+BCB02D03E,195,1,2,9373,Self-employed,Debt Consolidation,Rented,0
+39CEC0EB7,127,10,2,9574,Self-employed,Debt Consolidation,Owned,1
+2297C7894,866,8,4,7789,Employed,Investment,Rented,1
+5BD512919,799,1,1,6255,Self-employed,Investment,Mortgaged,1
+6A6970502,517,2,4,4452,Employed,Home Improvement,Owned,1
+FE27A12BF,195,2,1,5678,Unemployed,Education,Rented,0
+5896C55E5,514,10,4,9927,Employed,Education,Mortgaged,1
+8B35CDF1E,205,8,4,8381,Employed,Home Improvement,Mortgaged,0
+168ADC048,835,3,2,5959,Self-employed,Debt Consolidation,Owned,1
+A7A406C50,910,8,2,6312,Self-employed,Education,Owned,0
+D050250C7,918,10,2,2341,Unemployed,Education,Owned,0
+525FE69B2,222,9,2,2819,Self-employed,Home Improvement,Mortgaged,1
+C60DB494F,111,4,1,3404,Employed,Debt Consolidation,Owned,1
+565CE304E,769,11,3,5926,Employed,Home Improvement,Owned,1
+F4837C6D1,224,6,3,5697,Unemployed,Small Business Funding,Owned,1
+EE2CE5B38,603,4,3,5897,Self-employed,Small Business Funding,Mortgaged,1
+C9E23F079,424,1,2,7132,Employed,Education,Owned,1
+BE268FE36,975,7,4,4839,Employed,Debt Consolidation,Owned,0
+D9A408817,792,3,3,3733,Unemployed,Small Business Funding,Mortgaged,0
+849CD8E2D,611,1,4,5359,Self-employed,Investment,Rented,1
+A75907FAC,709,3,2,3508,Employed,Education,Rented,1
+349BF4450,572,1,4,2536,Unemployed,Debt Consolidation,Owned,1
+16F9A5538,570,8,1,2521,Unemployed,Small Business Funding,Mortgaged,0
+2950359E4,739,4,2,6854,Employed,Debt Consolidation,Owned,1
+A89591E81,587,10,1,7163,Self-employed,Debt Consolidation,Owned,1
+C821E78B2,136,7,4,6592,Employed,Investment,Rented,0
+DBBE0F1EB,580,1,1,8186,Self-employed,Debt Consolidation,Owned,0
+3B083ADF6,363,7,4,6066,Unemployed,Home Improvement,Owned,0
+46D8E9A8E,963,5,2,7693,Self-employed,Education,Mortgaged,0
+F65602991,469,3,1,2301,Employed,Small Business Funding,Owned,1
+1B1CC5805,319,8,4,9295,Unemployed,Home Improvement,Mortgaged,0
+5DE60D537,221,2,3,7201,Self-employed,Debt Consolidation,Mortgaged,1
+3E2BEAB65,312,10,2,4643,Employed,Investment,Owned,1
+02F03BA32,762,1,4,2161,Employed,Small Business Funding,Owned,1
+E57BFE828,370,10,4,9271,Unemployed,Small Business Funding,Rented,0
+E6FF26E97,835,4,4,5565,Unemployed,Debt Consolidation,Owned,1
+4D216B5CD,243,7,3,2241,Unemployed,Education,Owned,1
+1583EC29B,179,2,1,3719,Employed,Debt Consolidation,Owned,1
+BE28F4109,857,7,1,4520,Self-employed,Debt Consolidation,Owned,0
+7173E5BDD,351,8,2,9462,Employed,Education,Rented,0
+A1DE726F8,938,4,3,7901,Employed,Education,Mortgaged,1
+F1B1F4C21,714,8,4,7094,Unemployed,Debt Consolidation,Mortgaged,1
+435C4846E,413,5,2,4472,Self-employed,Small Business Funding,Owned,0
+525DB7882,367,3,1,8525,Unemployed,Investment,Owned,0
+CD794218E,889,9,3,2702,Self-employed,Small Business Funding,Owned,0
+B7E08CC2E,776,4,4,4494,Employed,Investment,Mortgaged,1
+3D9952B7A,422,11,3,5839,Unemployed,Home Improvement,Rented,1
+07F839F54,140,4,4,3012,Self-employed,Small Business Funding,Mortgaged,0
+213550644,826,1,2,3828,Unemployed,Home Improvement,Rented,1
+09E394AFB,449,7,3,9697,Unemployed,Investment,Mortgaged,1
+36B41EAAD,132,11,1,4849,Self-employed,Debt Consolidation,Rented,1
+19995BA57,960,10,1,4672,Employed,Investment,Rented,0
+35D1B7F86,208,9,4,2398,Self-employed,Investment,Mortgaged,1
+50301EB06,493,11,2,9895,Self-employed,Debt Consolidation,Mortgaged,0
+CA125C845,664,1,1,2661,Employed,Small Business Funding,Mortgaged,1
+42A0221CE,662,9,2,8724,Employed,Home Improvement,Mortgaged,1
+0B458F3B8,659,4,1,7526,Unemployed,Small Business Funding,Mortgaged,1
+E0CD83AAE,783,4,4,6138,Self-employed,Investment,Rented,1
+4244121CC,850,4,3,2282,Unemployed,Investment,Rented,0
+5F297FC62,514,7,3,2900,Unemployed,Small Business Funding,Rented,0
+70EECBDE9,803,5,1,3376,Employed,Small Business Funding,Rented,1
+2783B777E,707,6,2,9080,Self-employed,Debt Consolidation,Owned,0
+7A2DCE429,980,2,4,3132,Self-employed,Education,Owned,0
+02DA365A2,140,9,3,6479,Employed,Small Business Funding,Rented,1
+4DB553F0B,326,4,2,8044,Employed,Debt Consolidation,Mortgaged,1
+AC186B29E,330,2,2,7299,Self-employed,Small Business Funding,Mortgaged,1
+05903E907,871,6,2,6752,Self-employed,Education,Owned,1
+A8A72ADB2,152,3,2,6037,Employed,Small Business Funding,Rented,1
+8E93E8710,371,7,2,4468,Employed,Debt Consolidation,Rented,1
+ED95E4D13,510,3,1,7777,Unemployed,Investment,Rented,1
+A01E30320,341,5,1,7917,Unemployed,Home Improvement,Mortgaged,0
+14AD2B564,732,4,4,6223,Self-employed,Home Improvement,Rented,1
+33D1A704A,175,5,2,6278,Self-employed,Home Improvement,Rented,0
+AA97D3D69,291,7,3,8791,Unemployed,Small Business Funding,Rented,0
+85E1A68D1,189,8,1,5670,Employed,Investment,Owned,1
+3CF6B857C,733,3,1,6558,Employed,Debt Consolidation,Owned,1
+3213CF4E7,571,8,1,8430,Unemployed,Education,Mortgaged,1
+B7B1471D1,933,3,4,9569,Self-employed,Debt Consolidation,Rented,1
+34EA807D0,203,11,2,7864,Unemployed,Home Improvement,Mortgaged,1
+E38579559,128,2,2,9469,Unemployed,Home Improvement,Mortgaged,0
+49D3C1B2A,486,11,2,3243,Unemployed,Debt Consolidation,Rented,1
+1AE8F81DD,437,6,2,2016,Unemployed,Education,Mortgaged,0
+4CA100E6E,157,11,3,3641,Unemployed,Home Improvement,Rented,1
+378520DA9,243,5,1,2767,Employed,Home Improvement,Mortgaged,0
+3FB717B49,660,5,4,8971,Unemployed,Education,Mortgaged,1
+C59F83288,663,9,1,9633,Self-employed,Home Improvement,Mortgaged,0
+3A24CCBA5,665,4,1,4959,Self-employed,Debt Consolidation,Rented,1
+A83589872,572,8,1,8007,Self-employed,Education,Rented,1
+F8D3C8F85,747,3,3,7782,Unemployed,Home Improvement,Owned,1
+394DE3800,215,5,3,5423,Self-employed,Education,Rented,0
+4027E51EB,775,1,3,5586,Self-employed,Small Business Funding,Rented,1
+D46A07313,783,10,4,9427,Unemployed,Small Business Funding,Mortgaged,1
+A3042B42C,506,9,2,6361,Employed,Debt Consolidation,Mortgaged,1
+E8BD86999,417,5,4,7947,Unemployed,Debt Consolidation,Owned,1
+C40FA827E,180,2,4,2207,Unemployed,Investment,Mortgaged,1
+6A0FAA795,891,9,2,8549,Employed,Home Improvement,Mortgaged,0
+76332D010,700,11,1,6183,Employed,Home Improvement,Mortgaged,1
+60644CDE2,187,11,1,3241,Unemployed,Home Improvement,Owned,1
+764CF9F6B,882,5,3,8292,Unemployed,Small Business Funding,Rented,0
+3267AA541,336,2,3,2460,Self-employed,Investment,Mortgaged,0
+E6DEBC622,712,6,4,4725,Unemployed,Investment,Rented,1
+C5C1F92DB,995,4,4,6095,Self-employed,Debt Consolidation,Mortgaged,1
+31B16FECC,358,2,2,2943,Unemployed,Education,Owned,0
+A16E01522,277,3,2,3938,Unemployed,Debt Consolidation,Owned,1
+68CBFF4D3,216,4,3,5253,Unemployed,Investment,Mortgaged,0
+A42350906,508,9,2,2905,Self-employed,Education,Owned,1
+2310AAD6C,135,3,4,7408,Self-employed,Small Business Funding,Rented,0
+D1E560C76,379,8,2,5302,Self-employed,Small Business Funding,Rented,1
+6A4E53250,191,1,1,4320,Unemployed,Home Improvement,Owned,1
+06EA6F52B,289,9,3,4823,Unemployed,Investment,Owned,1
+200F89AD2,120,2,2,4774,Employed,Small Business Funding,Mortgaged,1
+3265C9E15,758,3,4,6758,Self-employed,Home Improvement,Mortgaged,1
+C24B8243F,289,1,2,9837,Employed,Investment,Rented,0
+F48D2F823,899,2,4,4230,Self-employed,Debt Consolidation,Mortgaged,1
+3A9C7154B,332,8,4,7469,Employed,Home Improvement,Owned,0
+75CD50C55,831,2,1,7976,Self-employed,Investment,Mortgaged,0
+C6A9629EA,928,9,4,9788,Employed,Investment,Owned,0
+F575F3F0C,674,7,1,8721,Self-employed,Small Business Funding,Owned,0
+412C5EBF9,104,2,3,5229,Self-employed,Education,Rented,0
+25B316485,300,9,4,5267,Employed,Home Improvement,Rented,0
+3C0632DBF,844,7,4,7510,Self-employed,Education,Owned,1
+A9EA2172E,616,9,3,2546,Unemployed,Investment,Rented,1
+D0DDB2612,610,3,4,8404,Self-employed,Investment,Rented,1
+5541D68A7,936,6,4,9857,Employed,Investment,Mortgaged,1
+71D4F8E54,376,5,1,3031,Unemployed,Small Business Funding,Rented,0
+A89A11195,397,8,2,8208,Employed,Home Improvement,Rented,0
+3299774B6,892,6,4,5291,Employed,Debt Consolidation,Rented,1
+06F2A9A12,535,2,1,3577,Unemployed,Debt Consolidation,Owned,1
+A7A31A2D8,624,9,4,6259,Employed,Education,Rented,1
+70FCF1FFF,234,11,2,2788,Self-employed,Investment,Mortgaged,1
+9CE510046,384,10,3,3304,Employed,Home Improvement,Rented,1
+A2B148755,592,1,3,7036,Self-employed,Education,Mortgaged,1
+3A4F4EC55,122,10,3,3855,Employed,Debt Consolidation,Owned,1
+A4029EE08,835,9,2,2593,Employed,Home Improvement,Owned,0
+19E6B72A5,267,7,3,5920,Employed,Debt Consolidation,Owned,1
+283D54F88,527,3,4,9644,Employed,Investment,Mortgaged,1
+257E48700,317,10,1,5287,Unemployed,Investment,Owned,1
+4AD11B2CC,543,2,1,9031,Employed,Education,Rented,0
+9F51D9169,897,8,2,6940,Employed,Small Business Funding,Mortgaged,1
+759D5B86B,352,5,4,3885,Employed,Small Business Funding,Rented,0
+7660CB63A,671,2,4,3567,Self-employed,Debt Consolidation,Rented,1
+FEE9A7844,468,10,1,5259,Unemployed,Small Business Funding,Rented,1
+A217CE825,971,1,4,6107,Unemployed,Home Improvement,Rented,1
+C90363E69,297,1,4,9795,Self-employed,Investment,Rented,0
+6CB36222C,624,4,1,7607,Self-employed,Debt Consolidation,Rented,1
+BC0046009,931,8,1,9979,Employed,Small Business Funding,Mortgaged,0
+3FA4B6A5A,876,11,2,6211,Self-employed,Debt Consolidation,Mortgaged,0
+17886B4E3,819,8,4,8272,Unemployed,Home Improvement,Mortgaged,1
+4D0B0BBAC,833,11,2,7602,Unemployed,Education,Owned,0
+FC9C089CA,787,10,4,2775,Unemployed,Education,Rented,1
+B5FE5B1E1,303,1,2,5727,Self-employed,Investment,Owned,1
+B4345F00B,198,3,3,8036,Self-employed,Debt Consolidation,Mortgaged,0
+F09933532,353,8,2,2163,Unemployed,Investment,Owned,1
+32AA21F75,544,3,3,6835,Unemployed,Debt Consolidation,Mortgaged,1
+D629517D4,169,9,2,8886,Employed,Debt Consolidation,Rented,1
+DB3D6E45D,915,1,4,8770,Unemployed,Education,Rented,1
+A3754B902,132,9,1,2261,Self-employed,Home Improvement,Owned,1
+70B975F1A,954,11,1,6285,Unemployed,Small Business Funding,Rented,0
+AAE6D2552,724,4,2,2456,Employed,Home Improvement,Mortgaged,0
+A1C767CB0,343,1,3,5061,Unemployed,Debt Consolidation,Mortgaged,1
+831E9F653,319,5,1,5897,Self-employed,Education,Mortgaged,0
+12841EF74,119,8,3,8494,Unemployed,Home Improvement,Rented,0
+FFABF52AC,473,6,3,7179,Employed,Debt Consolidation,Rented,0
+422B6CEC8,724,9,3,2593,Employed,Debt Consolidation,Rented,1
+393E35D1C,232,4,2,6697,Unemployed,Education,Rented,0
+F8F205988,231,1,2,5331,Employed,Investment,Owned,1
+73C64F7BD,190,1,2,3861,Employed,Education,Mortgaged,1
+8C7305AB3,794,9,3,6155,Self-employed,Education,Owned,0
+B5DD0A958,500,1,4,2419,Unemployed,Investment,Mortgaged,1
+88277F85C,798,6,4,8976,Unemployed,Investment,Mortgaged,1
+90CA19C00,605,9,4,2475,Employed,Debt Consolidation,Mortgaged,1
+AD95F2303,602,11,2,6073,Employed,Small Business Funding,Owned,1
+449268CE5,746,10,4,7249,Self-employed,Debt Consolidation,Rented,0
+669A89F0B,953,3,1,7784,Self-employed,Investment,Mortgaged,0
+6763E80FF,150,2,3,6583,Self-employed,Home Improvement,Mortgaged,0
+BD28C4A43,330,1,1,7656,Self-employed,Home Improvement,Mortgaged,0
+4B0DF66C0,663,9,1,3136,Unemployed,Investment,Owned,0
+BFBF3409A,925,6,1,7891,Self-employed,Small Business Funding,Owned,0
+3ADAFD994,250,10,4,2659,Employed,Investment,Mortgaged,1
+488204CF1,607,11,4,2269,Unemployed,Debt Consolidation,Mortgaged,1
+2430952DA,719,10,3,3048,Unemployed,Debt Consolidation,Mortgaged,1
+7928CA6B1,302,1,4,2819,Unemployed,Debt Consolidation,Mortgaged,1
+2A199154C,895,8,4,6917,Self-employed,Education,Mortgaged,0
+0ADD81C86,180,1,3,7078,Employed,Investment,Mortgaged,1
+A8DC17FA1,840,5,2,3368,Self-employed,Small Business Funding,Rented,0
+806E55BFF,230,8,3,6153,Unemployed,Education,Owned,1
+ECCDE250F,740,7,2,8684,Employed,Education,Rented,0
+0A564C80A,285,2,4,4125,Self-employed,Debt Consolidation,Rented,1
+22787FF40,976,3,4,3256,Employed,Education,Rented,1
+AF3218F5C,516,10,1,7189,Unemployed,Debt Consolidation,Owned,1
+227505693,259,3,2,6795,Employed,Debt Consolidation,Rented,1
+E18774A3C,288,4,4,3724,Employed,Investment,Owned,0
+B6B7986CC,332,6,1,9154,Self-employed,Debt Consolidation,Rented,1
+A5375C1BD,401,10,2,3043,Unemployed,Debt Consolidation,Rented,1
+47CD60DDB,219,8,3,3759,Self-employed,Education,Mortgaged,1
+DC5161B4F,158,5,1,7051,Unemployed,Investment,Owned,0
+F3DB8BC7E,727,4,3,6719,Self-employed,Education,Owned,1
+22A11EDCF,994,10,4,6713,Employed,Education,Owned,0
+425582E9E,316,3,2,5390,Employed,Investment,Owned,1
+D1126D0CB,771,7,1,3638,Self-employed,Education,Rented,0
+45F0764D1,727,11,2,5679,Unemployed,Education,Rented,1
+3CF172D35,276,7,2,4066,Unemployed,Investment,Rented,1
+B10922D2E,790,5,3,9187,Employed,Home Improvement,Rented,1
+F3087634C,526,7,4,4634,Unemployed,Debt Consolidation,Rented,0
+B85E195CE,492,5,1,4216,Employed,Investment,Rented,1
+0C338F15D,605,5,3,9137,Unemployed,Investment,Mortgaged,1
+EAB9CE813,904,4,1,9268,Employed,Debt Consolidation,Owned,0
+C5933E422,583,5,1,6293,Employed,Investment,Mortgaged,1
+FD72CE036,625,3,4,8097,Self-employed,Education,Owned,1
+CC49E2289,570,1,2,3449,Self-employed,Education,Rented,1
+689CFF60E,609,2,4,4601,Self-employed,Education,Owned,1
+CDE8EB304,600,5,3,6283,Self-employed,Home Improvement,Rented,1
+74D3768CB,971,9,4,8431,Unemployed,Education,Mortgaged,0
+3C1AA5448,870,8,2,8598,Employed,Small Business Funding,Owned,0
+4D9ECAECD,262,4,2,2424,Unemployed,Education,Owned,0
+0E3FB46B5,853,11,2,2226,Self-employed,Home Improvement,Mortgaged,0
+3E79D5C29,951,7,2,5804,Employed,Home Improvement,Mortgaged,1
+2B0E1C582,996,2,4,6268,Unemployed,Investment,Mortgaged,1
+6F3DF0420,850,1,3,4097,Unemployed,Debt Consolidation,Rented,1
+425A942E4,813,1,3,4856,Self-employed,Debt Consolidation,Mortgaged,1
+F7FB23865,272,5,2,7675,Employed,Debt Consolidation,Rented,1
+31D263E2B,742,7,3,7548,Self-employed,Home Improvement,Mortgaged,1
+D1E071E99,656,10,1,9603,Employed,Home Improvement,Mortgaged,0
+0ADE7FF57,834,2,1,9504,Employed,Small Business Funding,Owned,0
+8F6C6D4EC,824,5,2,4368,Self-employed,Small Business Funding,Rented,1
+89F09DC23,991,6,2,7330,Unemployed,Small Business Funding,Owned,0
+A2D45108A,193,1,2,8279,Employed,Education,Rented,0
+A58FFC45A,507,1,3,7978,Employed,Education,Owned,1
+E1A6BA674,646,4,3,2560,Self-employed,Home Improvement,Mortgaged,0
+DFE94A51C,168,10,4,9992,Self-employed,Small Business Funding,Mortgaged,0
+3287386E1,286,2,2,8298,Self-employed,Small Business Funding,Mortgaged,0
+455EA09B9,861,10,4,6969,Self-employed,Education,Owned,0
+136ED6279,124,1,2,3836,Employed,Debt Consolidation,Owned,1
+9DBD0750C,317,9,4,9751,Self-employed,Debt Consolidation,Mortgaged,0
+631AF861A,408,1,4,6131,Unemployed,Investment,Mortgaged,1
+02256CAAC,866,9,4,6219,Unemployed,Debt Consolidation,Rented,0
+693C61D70,369,10,4,9446,Self-employed,Debt Consolidation,Owned,0
+E295EA7C1,610,5,1,9870,Employed,Education,Rented,0
+F3F883C2B,114,2,4,7043,Employed,Investment,Mortgaged,0
+848223CEC,849,10,2,9099,Employed,Debt Consolidation,Rented,0
+604A344FB,280,9,2,7380,Employed,Education,Mortgaged,1
+6231EA1DA,775,3,1,9700,Unemployed,Investment,Mortgaged,0
+DCB0FBD28,975,4,2,3585,Employed,Investment,Rented,1
+02B6C5FF4,357,5,2,4649,Self-employed,Home Improvement,Rented,0
+8CBB12EF2,615,5,1,7512,Self-employed,Home Improvement,Mortgaged,1
+7D142F3D3,738,6,4,5632,Unemployed,Home Improvement,Rented,1
+C6CA360D3,554,7,2,3206,Employed,Debt Consolidation,Owned,0
+6A9DA37E6,574,5,3,5713,Self-employed,Education,Mortgaged,0
+7610F7EED,972,5,3,8354,Unemployed,Small Business Funding,Mortgaged,0
+6E9AB0B04,512,4,2,4320,Employed,Debt Consolidation,Rented,0
+24BD344E2,422,9,3,5694,Unemployed,Education,Mortgaged,0
+CF0AB1434,891,6,3,4979,Unemployed,Investment,Rented,0
+AC821F6B8,771,6,2,4710,Employed,Education,Owned,0
+956FD4C75,665,10,4,7591,Employed,Education,Owned,1
+FF1623CA7,970,7,4,2133,Unemployed,Small Business Funding,Rented,0
+EC52736E8,764,2,3,7946,Self-employed,Debt Consolidation,Owned,1
+766684B35,556,2,2,6431,Self-employed,Home Improvement,Rented,1
+82DE893E6,826,1,4,6040,Employed,Home Improvement,Mortgaged,1
+C1B9587F0,805,4,3,5191,Unemployed,Home Improvement,Rented,1
+83DB3F1FE,756,8,3,8379,Self-employed,Education,Rented,0
+6879CBD57,162,5,3,8892,Unemployed,Investment,Rented,0
+3BA162D0F,333,2,2,3884,Self-employed,Investment,Rented,1
+281D4D491,116,1,4,8420,Unemployed,Debt Consolidation,Owned,0
+6F4887466,568,10,4,4448,Self-employed,Investment,Mortgaged,1
+844640220,475,4,1,5190,Self-employed,Investment,Mortgaged,1
+34E6AEAC6,521,10,1,6676,Self-employed,Education,Mortgaged,1
+2512E6E1F,861,10,2,7850,Self-employed,Investment,Mortgaged,0
+94514D08F,199,10,2,4601,Employed,Debt Consolidation,Mortgaged,1
+F63049170,872,9,3,7962,Self-employed,Debt Consolidation,Rented,0
+514458450,345,1,1,2377,Employed,Investment,Rented,1
+7979DDA30,669,2,1,5719,Self-employed,Small Business Funding,Owned,1
+F9CB124C0,261,5,1,9709,Self-employed,Education,Rented,0
+7F25CC604,671,1,1,9860,Employed,Debt Consolidation,Mortgaged,0
+7DB4D417D,198,10,1,3019,Employed,Education,Mortgaged,1
+EA90056B1,803,9,3,8588,Employed,Education,Owned,0
+4552ED598,575,8,1,9069,Unemployed,Investment,Mortgaged,0
+E042D06FD,601,5,4,2424,Employed,Small Business Funding,Owned,0
+8E050D366,571,3,1,8257,Unemployed,Education,Rented,0
+8E445B950,573,7,2,4581,Self-employed,Education,Mortgaged,0
+E9EAEE7A9,706,10,3,2772,Employed,Investment,Rented,1
+923767560,305,6,3,6406,Self-employed,Home Improvement,Owned,0
+A7A8DFC00,829,5,1,7891,Employed,Home Improvement,Mortgaged,1
+DE36D89D7,342,2,4,3133,Unemployed,Home Improvement,Rented,1
+3C7A38E21,620,11,4,5725,Employed,Debt Consolidation,Rented,1
+DC2BDCC6B,834,6,1,2830,Self-employed,Debt Consolidation,Rented,0
+4CAF8BE0C,701,6,1,6966,Self-employed,Small Business Funding,Owned,1
+C55A15CDB,501,6,1,9686,Unemployed,Investment,Owned,0
+B682E0D8B,217,5,3,6082,Employed,Education,Mortgaged,0
+697F75761,677,1,4,2237,Employed,Education,Owned,1
+ADF519475,440,9,2,3284,Employed,Investment,Mortgaged,1
+05C5F2291,650,7,1,2514,Self-employed,Education,Owned,0
+AFE0DC6B7,121,7,4,2078,Unemployed,Education,Owned,0
+C269136EB,868,2,3,4159,Employed,Investment,Mortgaged,1
+AED01248F,828,3,2,4563,Unemployed,Investment,Rented,1
+E3C50358D,353,6,2,9271,Employed,Home Improvement,Mortgaged,0
+AE21761D6,100,5,4,3365,Unemployed,Education,Owned,0
+14F8F1BB0,596,11,3,8921,Employed,Education,Owned,0
+5046E60D9,761,11,4,7101,Unemployed,Investment,Rented,1
+70F435741,314,1,4,4349,Unemployed,Investment,Mortgaged,1
+4188FF121,294,11,2,9451,Employed,Investment,Rented,1
+53BF76553,185,8,1,8251,Employed,Home Improvement,Mortgaged,1
+EE8D560C6,552,3,2,5042,Unemployed,Debt Consolidation,Mortgaged,1
+DC9A62152,521,5,4,9394,Employed,Investment,Owned,1
+44D8BBAE6,300,11,1,8626,Employed,Education,Mortgaged,1
+8B0CE12B6,895,6,1,3960,Self-employed,Home Improvement,Mortgaged,1
+E50E77BA4,799,9,3,4037,Unemployed,Investment,Mortgaged,0
+0EAD1F7FA,591,3,1,5696,Employed,Education,Owned,1
+DC7409441,355,4,4,3573,Unemployed,Small Business Funding,Mortgaged,0
+42EECADBD,615,8,4,9650,Employed,Education,Owned,1
+52E4BC434,353,1,3,3459,Unemployed,Investment,Rented,1
+B34493FDF,243,7,1,7871,Employed,Debt Consolidation,Mortgaged,1
+4E2406386,248,11,2,7347,Self-employed,Small Business Funding,Owned,1
+3E985CCD9,295,9,2,4544,Unemployed,Home Improvement,Rented,1
+56B23034F,138,7,4,4010,Employed,Home Improvement,Owned,0
+EFB900508,289,2,2,9128,Employed,Investment,Mortgaged,0
+6B4FEC631,468,2,1,2631,Self-employed,Investment,Owned,1
+D613DF292,499,7,2,9035,Employed,Small Business Funding,Rented,1
+22D33CC3D,798,4,3,4130,Unemployed,Small Business Funding,Rented,0
+CFF706102,307,8,4,6278,Employed,Investment,Rented,0
+5924C2301,751,8,4,2464,Employed,Debt Consolidation,Rented,1
+6A621291B,120,7,3,8602,Employed,Small Business Funding,Rented,0
+BA46F8295,906,6,1,2689,Employed,Education,Mortgaged,0
+0F1946478,962,8,4,6443,Employed,Investment,Owned,0
+E5789587C,466,2,3,8596,Employed,Small Business Funding,Rented,1
+64AA3FCFF,851,2,2,7693,Employed,Small Business Funding,Mortgaged,1
+80A73C06C,376,6,1,7472,Self-employed,Small Business Funding,Mortgaged,1
+B095760A0,496,1,1,4974,Self-employed,Small Business Funding,Rented,1
+9BDBE0BFF,519,1,1,6839,Employed,Investment,Owned,1
+F64AEC722,552,3,4,9353,Self-employed,Education,Mortgaged,1
+7E6EC82D4,968,10,3,6948,Employed,Education,Mortgaged,0
+051EFF778,589,10,2,6930,Employed,Debt Consolidation,Mortgaged,1
+3FC5F6718,447,9,1,2963,Unemployed,Small Business Funding,Mortgaged,1
+44C36057B,212,9,4,9634,Self-employed,Investment,Rented,0
+0FF555085,646,9,4,4711,Self-employed,Home Improvement,Owned,1
+A5562A07C,283,5,2,5292,Self-employed,Debt Consolidation,Rented,1
+47125E8E1,256,8,3,4831,Self-employed,Debt Consolidation,Rented,1
+DD0E9290B,737,9,4,7080,Unemployed,Small Business Funding,Owned,1
+6A010F403,927,9,4,2769,Employed,Home Improvement,Mortgaged,1
+129468AB3,608,7,4,4334,Self-employed,Home Improvement,Mortgaged,0
+8E155AF3A,673,1,3,6437,Unemployed,Debt Consolidation,Mortgaged,1
+2EDF37322,847,5,3,3804,Self-employed,Investment,Owned,0
+8F03535F5,897,8,2,4529,Self-employed,Education,Rented,0
+666BC03C0,704,3,1,4023,Unemployed,Home Improvement,Rented,1
+78FF95A68,929,7,1,5868,Self-employed,Home Improvement,Rented,1
+5908109FE,695,5,1,2541,Unemployed,Debt Consolidation,Owned,1
+065E84FEE,966,2,3,7997,Self-employed,Debt Consolidation,Owned,1
+8F8E90F6B,502,1,4,9247,Unemployed,Home Improvement,Rented,1
+22D08D2B2,229,2,2,8907,Employed,Investment,Mortgaged,0
+6D45BEE4F,384,3,1,4179,Employed,Small Business Funding,Mortgaged,1
+103C1C490,829,3,2,4562,Employed,Education,Rented,1
+A6DD9C760,324,8,4,6485,Self-employed,Education,Owned,0
+8CECA237A,984,9,2,7066,Self-employed,Debt Consolidation,Owned,0
+C14EDECCE,745,5,1,4530,Unemployed,Investment,Owned,1
+FE5C12D34,844,8,3,6187,Self-employed,Investment,Rented,0
+9FEA466DD,657,11,1,9160,Employed,Investment,Rented,0
+748F79532,531,2,4,7995,Unemployed,Small Business Funding,Rented,1
+5546A805F,725,11,4,5009,Employed,Education,Owned,1
+85F54A056,982,5,3,6688,Unemployed,Investment,Rented,0
+934AB1884,995,1,1,6200,Employed,Investment,Mortgaged,1
+924876AB1,225,4,2,9531,Self-employed,Investment,Owned,0
+333912BFC,472,4,3,4361,Employed,Debt Consolidation,Mortgaged,0
+EE8D4795E,941,6,3,9378,Unemployed,Education,Owned,0
+6F77FF0AA,863,7,3,6551,Employed,Investment,Owned,0
+03C44B75C,863,1,1,4009,Unemployed,Small Business Funding,Rented,1
+DEB140F0D,712,3,2,7582,Employed,Debt Consolidation,Rented,1
+95D049155,915,3,4,2241,Employed,Small Business Funding,Owned,0
+C150D9A96,922,6,1,9165,Unemployed,Debt Consolidation,Mortgaged,0
+F1945AD2E,757,7,3,2137,Self-employed,Home Improvement,Rented,0
+9117D5399,693,6,4,4336,Employed,Investment,Owned,1
+CD0828802,447,6,3,6998,Self-employed,Investment,Mortgaged,0
+B916AA05F,598,2,2,4408,Self-employed,Education,Mortgaged,1
+DD236976C,352,9,2,7439,Employed,Education,Mortgaged,1
+0B2189EB3,979,11,1,7433,Employed,Investment,Mortgaged,0
+5D0E0EE48,153,3,1,4160,Self-employed,Small Business Funding,Rented,1
+C92D7D573,157,5,1,2661,Unemployed,Debt Consolidation,Mortgaged,1
+843D9FDD6,291,9,1,8841,Self-employed,Debt Consolidation,Owned,1
+A4DCC2E09,995,6,2,4613,Self-employed,Education,Owned,0
+A8405D4DC,595,3,1,8052,Self-employed,Home Improvement,Owned,0
+EB1208AD9,264,1,2,7017,Employed,Home Improvement,Rented,1
+0DE41CBF9,692,10,3,2340,Employed,Investment,Mortgaged,1
+587664729,809,10,4,7671,Self-employed,Education,Owned,0
+027903992,198,1,3,2243,Employed,Home Improvement,Mortgaged,0
+61180EDF2,589,9,2,9549,Employed,Small Business Funding,Owned,0
+D10AA87EA,858,2,1,7897,Unemployed,Investment,Owned,0
+E263920DD,971,10,1,8793,Employed,Investment,Mortgaged,0
+7B945DDCF,484,6,4,8075,Self-employed,Investment,Rented,1
+904CDCE1F,637,5,3,4196,Employed,Debt Consolidation,Owned,0
+7FEE1881D,136,3,4,4546,Self-employed,Investment,Owned,0
+F30DB39A5,238,5,1,3601,Employed,Education,Rented,0
+0F78188B9,439,5,1,7561,Self-employed,Small Business Funding,Rented,1
+823F21759,985,9,3,7738,Unemployed,Debt Consolidation,Rented,0
+1408CB7F8,890,10,3,9948,Unemployed,Investment,Owned,0
+25BC0F1A9,403,5,4,2671,Unemployed,Investment,Owned,0
+96EA50827,774,8,4,5489,Self-employed,Education,Mortgaged,1
+D9E6EEC53,458,9,2,2542,Employed,Small Business Funding,Rented,1
+EF107DB57,663,10,1,6737,Self-employed,Small Business Funding,Mortgaged,1
+61C203E3E,114,4,1,4507,Self-employed,Debt Consolidation,Rented,1
+4B1D74D8C,596,9,2,5562,Unemployed,Debt Consolidation,Mortgaged,0
+F0859D92C,860,11,2,6621,Unemployed,Small Business Funding,Owned,0
+97BEF2149,290,8,4,5291,Self-employed,Home Improvement,Rented,0
+775506F2A,576,4,4,2365,Employed,Education,Mortgaged,1
+97B10AEB8,809,7,2,2845,Unemployed,Home Improvement,Rented,0
+AA19A46AA,491,6,3,4817,Employed,Investment,Owned,0
+7472F6AC0,206,2,1,9334,Self-employed,Education,Rented,0
+CB22095F7,352,3,3,2707,Employed,Small Business Funding,Mortgaged,0
+BC97B1EFF,415,9,1,4352,Self-employed,Small Business Funding,Mortgaged,1
+1DFBC561E,665,7,3,3246,Self-employed,Small Business Funding,Mortgaged,0
+CC2BA5BB7,827,10,1,7435,Unemployed,Education,Mortgaged,1
+088FDABA6,145,6,1,9395,Self-employed,Home Improvement,Rented,0
+903E4B900,387,11,2,8606,Unemployed,Home Improvement,Mortgaged,1
+B03F8C362,662,3,2,3735,Employed,Investment,Rented,1
+B7BAE04D1,161,3,1,7195,Unemployed,Home Improvement,Mortgaged,0
+99AE57B74,252,11,1,4444,Self-employed,Small Business Funding,Mortgaged,1
+27A7CB41C,664,6,2,3283,Employed,Small Business Funding,Rented,0
+8D6FC75CF,968,11,2,9908,Self-employed,Education,Owned,0
+DD1AD0BD3,653,6,3,2072,Unemployed,Education,Mortgaged,0
+2A4BA9D6A,673,9,1,4946,Self-employed,Home Improvement,Owned,1
+17065EBAA,774,5,4,8106,Employed,Small Business Funding,Rented,1
+33ECC3665,650,4,3,9758,Self-employed,Home Improvement,Owned,0
+4F83EFFC4,489,2,2,5062,Self-employed,Home Improvement,Mortgaged,1
+8247B54C6,104,8,1,9798,Self-employed,Home Improvement,Mortgaged,0
+C9A3A0F3D,329,11,3,8397,Self-employed,Education,Rented,0
+128BC764A,763,6,4,3037,Employed,Education,Rented,0
+CEC60E4CA,936,5,1,5081,Employed,Home Improvement,Rented,1
+A461D3146,957,3,3,7301,Employed,Education,Mortgaged,1
+BB24B079D,596,10,2,2313,Employed,Debt Consolidation,Mortgaged,1
+EBD62E107,140,1,2,3725,Unemployed,Small Business Funding,Rented,1
+E7E684B5B,784,6,1,8303,Self-employed,Education,Mortgaged,0
+85586BB04,566,6,2,6795,Unemployed,Home Improvement,Mortgaged,1
+492EE0ABD,940,6,2,7291,Unemployed,Small Business Funding,Mortgaged,1
+160D214A4,875,7,1,3311,Employed,Debt Consolidation,Rented,0
+F8E5A8FE6,950,2,2,4810,Unemployed,Education,Mortgaged,1
+586F0D035,202,1,4,2038,Self-employed,Small Business Funding,Mortgaged,1
+26FCB3EDA,251,1,2,4557,Employed,Education,Owned,1
+EA766B881,355,5,3,3687,Employed,Home Improvement,Rented,0
+4810F9EEC,426,11,3,4403,Unemployed,Home Improvement,Rented,1
+DD4322063,138,2,4,7947,Unemployed,Education,Owned,0
+DF026689F,826,8,3,8099,Self-employed,Debt Consolidation,Rented,0
+D2485EDDE,107,5,1,8164,Unemployed,Small Business Funding,Owned,0
+EC3552945,574,11,1,4256,Employed,Home Improvement,Mortgaged,1
+F6A1D4118,983,8,1,4990,Employed,Education,Mortgaged,0
+D69577A1F,612,1,3,9370,Self-employed,Small Business Funding,Owned,1
+894B7D227,990,7,1,6256,Employed,Investment,Mortgaged,1
+0F72D9870,262,7,4,5471,Unemployed,Home Improvement,Rented,0
+0A23CA69A,518,6,3,8904,Unemployed,Small Business Funding,Owned,0
+D56A19A2B,538,4,3,3403,Employed,Home Improvement,Mortgaged,0
+FD1145607,395,6,4,2363,Unemployed,Home Improvement,Mortgaged,0
+FF223732F,786,1,3,9397,Self-employed,Home Improvement,Rented,1
+B6751E4AB,260,3,1,8281,Unemployed,Education,Owned,0
+853071E92,759,9,2,8868,Unemployed,Debt Consolidation,Owned,0
+C45A62808,400,4,4,3625,Self-employed,Investment,Rented,0
+86A2FD82F,932,2,2,4096,Self-employed,Investment,Rented,1
+F0815CC51,205,9,4,5083,Employed,Small Business Funding,Rented,0
+CDAC28E25,838,8,2,6137,Self-employed,Investment,Rented,1
+D0CDC7EF1,924,4,3,2780,Employed,Education,Rented,0
+E2A790544,443,2,3,7860,Self-employed,Home Improvement,Owned,1
+56F7F8C09,383,8,3,5576,Self-employed,Education,Owned,1
+6AD7CBC76,266,6,1,4817,Self-employed,Investment,Owned,0
+8EC61A278,723,9,4,9380,Self-employed,Debt Consolidation,Owned,1
+6CE42748C,448,5,3,2562,Self-employed,Debt Consolidation,Rented,0
+613A2395D,101,7,4,8116,Self-employed,Small Business Funding,Owned,0
+D02CF1D2D,456,4,4,7343,Self-employed,Small Business Funding,Mortgaged,1
+A7A79888C,474,8,3,9088,Self-employed,Home Improvement,Mortgaged,0
+BC775EFA5,134,4,4,9321,Unemployed,Investment,Rented,0
+25E14628A,796,1,3,9534,Employed,Debt Consolidation,Rented,1
+601B72E44,853,1,3,3619,Unemployed,Small Business Funding,Rented,1
+604660578,708,8,1,4044,Employed,Education,Owned,0
+66A7EF00A,138,11,2,6285,Unemployed,Small Business Funding,Mortgaged,1
+3B3962134,884,4,3,3613,Self-employed,Debt Consolidation,Owned,0
+3F9FFD24E,164,9,4,3523,Employed,Home Improvement,Owned,1
+7146FB821,810,5,2,9898,Unemployed,Small Business Funding,Owned,0
+C64A99518,441,8,2,8099,Employed,Home Improvement,Rented,0
+23BCB7AF0,230,10,4,6724,Employed,Small Business Funding,Owned,0
+1B35F3D3A,560,8,2,9875,Self-employed,Home Improvement,Mortgaged,0
+32024525F,173,2,3,7738,Unemployed,Education,Owned,0
+D1292B554,352,10,1,2597,Self-employed,Small Business Funding,Owned,1
+C14B41467,576,6,2,8910,Employed,Debt Consolidation,Owned,0
+18E6D771A,584,7,3,9426,Employed,Debt Consolidation,Owned,0
+E4877B0BF,485,7,2,8979,Unemployed,Debt Consolidation,Owned,0
+94BCC8638,153,4,2,7827,Employed,Small Business Funding,Owned,0
+84E25B846,259,2,2,2094,Employed,Investment,Mortgaged,0
+FAB273119,703,4,3,2597,Self-employed,Debt Consolidation,Mortgaged,0
+9587D9236,863,8,3,8140,Self-employed,Small Business Funding,Rented,0
+7CD01D314,752,9,3,9710,Self-employed,Home Improvement,Mortgaged,0
+BF9C8B863,825,3,2,9406,Employed,Investment,Owned,0
+C7F98248D,437,11,2,2148,Employed,Small Business Funding,Mortgaged,1
+32B4D796C,203,6,1,3640,Self-employed,Small Business Funding,Mortgaged,1
+4952F6520,938,3,3,4556,Self-employed,Home Improvement,Mortgaged,1
+D7667A624,790,9,3,9842,Self-employed,Debt Consolidation,Rented,0
+ECD02CECA,515,2,1,8928,Self-employed,Debt Consolidation,Owned,0
+8920B6BF1,326,8,2,8339,Employed,Small Business Funding,Owned,1
+F03A3C130,368,3,1,8023,Employed,Education,Owned,0
+CED0046CC,293,6,2,3449,Unemployed,Debt Consolidation,Rented,1
+DF51A712D,492,1,4,6865,Self-employed,Debt Consolidation,Rented,1
+4AAA15D86,269,7,3,3900,Self-employed,Education,Mortgaged,1
+0D32A102D,875,6,4,5374,Employed,Education,Mortgaged,1
+E4E9C33FD,754,9,4,2792,Self-employed,Home Improvement,Owned,1
+4D2F86051,367,1,2,3778,Unemployed,Education,Owned,1
+34E4C2BAF,572,10,3,8164,Employed,Debt Consolidation,Owned,0
+6CDA4160E,869,1,1,6839,Unemployed,Investment,Mortgaged,1
+0B1DE7130,828,11,1,7093,Unemployed,Investment,Owned,0
+5CA0E2877,984,3,2,4325,Unemployed,Small Business Funding,Mortgaged,1
+E0516F18D,914,10,1,7932,Employed,Small Business Funding,Rented,0
+FCF261BB5,289,6,1,7699,Employed,Home Improvement,Mortgaged,0
+ED70E21AB,609,5,4,5850,Unemployed,Education,Rented,1
+2892195EA,243,10,2,3326,Unemployed,Home Improvement,Rented,1
+4F63D3B74,401,5,4,4489,Self-employed,Debt Consolidation,Mortgaged,0
+EECB447C3,221,1,4,5351,Unemployed,Investment,Mortgaged,1
+E2B3C0F26,942,10,1,7692,Self-employed,Small Business Funding,Rented,0
+B21862A95,921,8,3,2392,Self-employed,Home Improvement,Rented,0
+252385FAF,772,11,2,7683,Unemployed,Small Business Funding,Owned,0
+6202134E1,569,6,3,4247,Employed,Debt Consolidation,Owned,0
+EF3DE6A26,534,6,1,7926,Employed,Investment,Rented,1
+D514DCE45,242,4,2,2671,Employed,Small Business Funding,Rented,0
+BE6D5637B,838,10,1,7174,Employed,Debt Consolidation,Owned,1
+7C513A71E,775,9,2,9298,Employed,Home Improvement,Rented,0
+55FB74E32,362,6,2,8356,Unemployed,Home Improvement,Rented,0
+E8B93814C,882,10,1,2685,Self-employed,Debt Consolidation,Rented,0
+0997C904C,575,3,2,5610,Employed,Home Improvement,Mortgaged,1
+C774B34B5,267,2,3,5895,Employed,Investment,Rented,1
+75A384257,486,6,2,3950,Employed,Education,Mortgaged,0
+9B7D78327,901,2,2,9729,Employed,Education,Mortgaged,0
+00A28E84D,168,11,3,5300,Employed,Education,Rented,1
+66F37AE47,540,5,4,8106,Employed,Home Improvement,Rented,1
+C03597C29,710,3,1,5084,Self-employed,Investment,Rented,1
+4DFB829E8,322,7,2,2074,Unemployed,Education,Rented,1
+928409E8D,174,10,4,9187,Unemployed,Home Improvement,Owned,0
+B9F60EDFE,733,4,1,5986,Unemployed,Home Improvement,Owned,1
+02856B7B9,376,4,4,5292,Self-employed,Education,Owned,0
+931555F37,966,1,2,5747,Self-employed,Small Business Funding,Mortgaged,1
+90D43E2CF,223,9,1,8662,Employed,Investment,Mortgaged,1
+CFF949E2F,823,2,1,6724,Employed,Investment,Mortgaged,1
+11B18CB41,147,6,1,3442,Unemployed,Investment,Mortgaged,1
+BF5964AA4,485,5,1,2072,Self-employed,Education,Rented,0
+200A930B1,800,5,2,9920,Employed,Debt Consolidation,Owned,0
+D6DF3BE3D,953,11,3,4993,Self-employed,Education,Rented,0
+CB91A304D,930,11,2,8346,Employed,Home Improvement,Rented,0
+F0DADD343,875,8,1,6917,Unemployed,Small Business Funding,Rented,1
+459A02CF7,447,11,4,5652,Unemployed,Home Improvement,Owned,1
+8ED611C3C,758,6,4,2689,Self-employed,Investment,Mortgaged,0
+1D2D84E96,963,5,1,9002,Unemployed,Education,Rented,0
+6A08D1354,171,11,3,6008,Unemployed,Small Business Funding,Owned,1
+52B66B222,666,1,4,2066,Unemployed,Home Improvement,Rented,1
+8E294487D,329,8,1,9340,Employed,Debt Consolidation,Mortgaged,1
+BF79ECD64,875,8,3,9083,Employed,Debt Consolidation,Rented,0
+57A5FBC40,295,6,1,9085,Self-employed,Investment,Mortgaged,0
+BBA0D91C7,832,2,3,7624,Unemployed,Small Business Funding,Rented,1
+7E78CBCDA,250,8,3,7542,Self-employed,Investment,Mortgaged,0
+96F48F7E3,712,10,1,5983,Self-employed,Education,Owned,1
+D16611D7B,157,5,1,6308,Self-employed,Home Improvement,Mortgaged,0
+7F375444F,441,1,4,7236,Self-employed,Home Improvement,Mortgaged,1
+96AC41250,763,8,1,4583,Employed,Home Improvement,Mortgaged,1
+DEEF91E55,430,11,4,9559,Self-employed,Small Business Funding,Mortgaged,0
+1164D7388,306,11,3,9174,Self-employed,Education,Owned,0
+3A3C6C04D,146,11,1,4196,Employed,Small Business Funding,Owned,1
+F71EBAC1B,716,8,1,4085,Self-employed,Education,Mortgaged,0
+4BBD0C353,798,10,3,2867,Unemployed,Debt Consolidation,Mortgaged,1
+17D828B30,752,7,3,4757,Unemployed,Debt Consolidation,Rented,0
+A966F112E,951,9,2,8093,Employed,Home Improvement,Rented,0
+4A9C14476,101,3,3,2632,Unemployed,Home Improvement,Rented,0
+9CAECD536,202,9,4,5906,Unemployed,Small Business Funding,Owned,0
+21ED52D9E,891,1,4,4376,Unemployed,Investment,Rented,1
+FA58497F6,483,8,3,3651,Self-employed,Education,Mortgaged,0
+C43DDD252,199,11,3,3428,Self-employed,Home Improvement,Mortgaged,1
+B785ACA60,554,11,2,3868,Employed,Education,Owned,1
+176E9E2F3,561,10,2,2593,Unemployed,Home Improvement,Mortgaged,1
+67AC8D340,501,10,3,9123,Unemployed,Small Business Funding,Rented,0
+3D2EE39BA,502,11,2,4645,Unemployed,Home Improvement,Rented,1
+BF375847E,448,1,4,3549,Employed,Investment,Rented,1
+DFB0F4A73,706,3,1,7251,Unemployed,Investment,Owned,1
+EBD05F209,700,2,3,5874,Self-employed,Small Business Funding,Rented,1
+65444B231,259,5,2,5083,Employed,Home Improvement,Rented,1
+E408461CB,741,10,3,6244,Self-employed,Investment,Mortgaged,0
+A00C31695,563,3,1,5029,Unemployed,Investment,Mortgaged,1
+936E77D2E,905,1,1,8018,Unemployed,Home Improvement,Owned,0
+750A2FEE1,679,4,1,5631,Employed,Education,Owned,1
+2C6DECC5B,759,6,2,3764,Self-employed,Home Improvement,Owned,0
+F1EDD8E47,495,8,3,9852,Employed,Home Improvement,Rented,0
+6993EFE13,996,7,4,5754,Unemployed,Debt Consolidation,Rented,0
+829EC74A4,113,6,4,3494,Self-employed,Small Business Funding,Mortgaged,0
+4DBC30DCC,858,7,3,4281,Unemployed,Education,Rented,0
+F04B072E6,655,2,3,7772,Self-employed,Education,Mortgaged,1
+6CC58E6FC,485,10,2,7372,Employed,Debt Consolidation,Rented,1
+D8C0652FC,330,5,4,9246,Unemployed,Investment,Rented,0
+FA7186BFF,783,8,4,6585,Self-employed,Education,Rented,1
+B0354F736,755,10,2,7149,Employed,Debt Consolidation,Mortgaged,1
+DA808A84A,977,6,3,8335,Employed,Debt Consolidation,Owned,0
+67F5E906E,602,8,3,2405,Unemployed,Small Business Funding,Mortgaged,0
+04D15EF62,242,3,3,6878,Unemployed,Investment,Owned,0
+7FD626CAA,495,7,1,7237,Employed,Debt Consolidation,Rented,1
+DB1B11433,639,9,4,2370,Self-employed,Education,Mortgaged,1
+5232EE83B,438,2,4,7468,Self-employed,Investment,Owned,1
+005237A9C,788,2,3,8643,Self-employed,Investment,Owned,1
+ECEEF596F,319,5,3,7783,Unemployed,Debt Consolidation,Mortgaged,0
+74CFBFDFA,302,9,4,4297,Unemployed,Home Improvement,Mortgaged,0
+DEF4406A5,358,7,1,5724,Employed,Home Improvement,Owned,0
+BC37EAC3A,739,10,2,6837,Employed,Small Business Funding,Mortgaged,1
+BE54ABFCB,388,1,3,9112,Unemployed,Education,Rented,1
+C238860D2,439,11,2,9284,Self-employed,Debt Consolidation,Rented,1
+42039A8C0,496,5,4,9790,Employed,Small Business Funding,Owned,1
+1A824B419,991,3,4,6494,Unemployed,Small Business Funding,Rented,1
+7DC3FE29A,915,3,3,7887,Unemployed,Investment,Rented,1
+2ADEB5478,219,7,2,2545,Self-employed,Small Business Funding,Owned,1
+4AC4D32AE,686,6,3,5835,Employed,Small Business Funding,Mortgaged,1
+8A92292F2,198,5,3,4947,Self-employed,Investment,Rented,0
+970B0407F,617,9,2,6531,Employed,Home Improvement,Owned,1
+2F6A1A782,537,1,3,7535,Employed,Education,Rented,1
+F4F9AE1E9,476,6,2,9179,Self-employed,Small Business Funding,Rented,1
+683E2E1FD,487,11,4,3232,Self-employed,Debt Consolidation,Rented,1
+40B596BD5,621,2,2,5562,Self-employed,Debt Consolidation,Mortgaged,1
+B8D61490D,372,6,3,2663,Self-employed,Small Business Funding,Owned,0
+A161686F1,894,1,1,8900,Unemployed,Home Improvement,Mortgaged,0
+EB7508953,157,1,1,6643,Unemployed,Debt Consolidation,Rented,0
+718640163,748,8,2,5036,Self-employed,Education,Rented,0
+5AA62CD7B,420,1,1,5983,Self-employed,Small Business Funding,Rented,1
+FB840E21B,915,6,1,5506,Self-employed,Debt Consolidation,Owned,1
+13A40F95C,612,3,3,8579,Unemployed,Home Improvement,Owned,1
+9F49AC78A,198,4,2,8493,Unemployed,Debt Consolidation,Owned,0
+580EE77EE,849,2,3,2361,Self-employed,Small Business Funding,Owned,0
+EC78F5249,555,4,2,3431,Unemployed,Debt Consolidation,Mortgaged,0
+4AC080C32,802,7,4,5719,Self-employed,Investment,Owned,1
+2E42AB631,135,6,2,3716,Unemployed,Investment,Mortgaged,1
+0B0CBCD61,960,2,3,3653,Unemployed,Education,Rented,1
+D813CCE12,108,6,3,4442,Unemployed,Small Business Funding,Owned,1
+52AFC44E9,175,3,2,2022,Employed,Home Improvement,Owned,0
+B65C4D387,435,10,2,8741,Employed,Home Improvement,Rented,0
+39F5671A4,550,2,3,6283,Employed,Investment,Owned,1
